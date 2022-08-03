@@ -22,9 +22,9 @@
 title: MauroVanetti.info 
 email: posta@maurovanetti.info
 description: >- # this means to ignore newlines until next element
-  Mauro Vanetti
+  il mio sgabuzzino
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://maurovanetti.info" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
