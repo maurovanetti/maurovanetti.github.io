@@ -65,6 +65,6 @@ jobs:
           server: ${{ secrets.server }}
           username: ${{ secrets.username }}
           password: ${{ secrets.password }}
-          local-dir: ./github/workspace/_site/
+          local-dir: ./_site/
           log-level: verbose
   
