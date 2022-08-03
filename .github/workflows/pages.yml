@@ -66,5 +66,6 @@ jobs:
           username: ${{ secrets.username }}
           password: ${{ secrets.password }}
           local-dir: ./_site/
+          state-name: ../.sync-log.json
           log-level: verbose
   
