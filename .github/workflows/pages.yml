@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Jekyll on maurovanetti.github.io + maurovanetti.info
 
 on:
   # Runs on pushes targeting the default branch
@@ -35,9 +35,9 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v1        
 
-  # Deployment job
+  # Deployment on maurovanetti.github.io
   deploy:
     environment:
       name: github-pages
@@ -48,3 +48,20 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+        
+  # Deployment on maurovanetti.info
+  publish:
+    environment:
+      name: website-ftp
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Sync to maurovanetti.info
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server: ${{ secrets.server }}
+          username: ${{ secrets.username }}
+          password: ${{ secrets.password }}
+          local-dir: ./_site
+          log-level: verbose
+  
