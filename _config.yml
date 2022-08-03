@@ -21,17 +21,33 @@
 
 title: MauroVanetti.info 
 email: posta@maurovanetti.info
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until next element
   Mauro Vanetti
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maurovanetti
-github_username:  maurovanetti
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Used by Minima theme
+lang: it
+minima:
+  date_format: "%e/%-m/%Y"
+author: Mauro Vanetti
+twitter_username: maurovanetti
+github_username:  maurovanetti
+facebook_username: mauro.vanetti
+instagram_username: maurovanetti
+linkedin_username: maurovanetti
+rss: rss
+show_excerpts: true
+disqus:
+  shortname: maurovanetti
+
+# Used by custom theme (based on Minima)
+footer_message: Arbeiter aller Länder vereinigt Euch!
 
 # Exclude from processing.
 # The following items will not be processed, by default.
