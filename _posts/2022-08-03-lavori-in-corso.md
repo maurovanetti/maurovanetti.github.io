@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Sito in manutenzione"
-date:   2022-08-03 17:37:00 +0200
-categories: info
+title: Sito in manutenzione
+tags: info geek
 ---
 Questo sito-sgabuzzino è in manutenzione.
 

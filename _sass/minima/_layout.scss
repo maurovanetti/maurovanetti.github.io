@@ -5,6 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  margin-bottom: $spacing-unit * 2;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -12,7 +13,8 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  font-family: $title-font-family;
+  font-weight: 800;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: 2px;
   margin-bottom: 0;
@@ -24,7 +26,8 @@
 }
 
 .site-description {
-  font-weight: 300;
+  font-family: $title-font-family;
+  font-weight: 700;
   letter-spacing: 1px;
   margin-bottom: 0;
 }
@@ -206,8 +209,37 @@
   margin-left: 0;
   list-style: none;
 
-  > li {
+  > .post {
+    height: $preview-height;
+    border: solid $grey-color-light;
+    background-color: $foreground-color;
+    border-radius: 5px;
+    padding: $spacing-unit;
     margin-bottom: $spacing-unit;
+
+    > .post-excerpt {
+      float: right;
+      height: $preview-height;
+      width: 40%;
+      background: -webkit-linear-gradient(#000 0%, #000 70%, #fff 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+      @include media-query($on-laptop) {
+        display: none;
+      }
+    }
+
+    > h3 {
+      height: $preview-height - $small-font-size;
+      overflow-y: clip;
+      width: 50%;
+
+      @include media-query($on-laptop) {
+        width: initial;
+      }
+    }
   }
 }
 
@@ -242,6 +274,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  text-align: justify;
 
   h2 {
     @include relative-font-size(2);

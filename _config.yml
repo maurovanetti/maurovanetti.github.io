@@ -26,6 +26,8 @@ description: >- # this means to ignore newlines until next element
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maurovanetti.info" # the base hostname & protocol for your site, e.g. http://example.com
 
+permalink: /:year/:slug:output_ext
+
 # Build settings
 theme: minima
 plugins:
