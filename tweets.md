@@ -2,6 +2,6 @@
 layout: page
 shortcut: "🐦"
 title: ""
-permalink: /tweets/
+permalink: /tweets.html
 ---
 {% include twitter-timeline.html %}
