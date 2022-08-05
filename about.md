@@ -2,7 +2,7 @@
 layout: page
 shortcut: "?"
 title: "Che cos'è questo sito?"
-permalink: /about/
+permalink: /about.html
 ---
 
 Mauro Vanetti, Pavia, 29/9/1979.
