@@ -1,3 +1,8 @@
+/* Scrollbars always visible to avoid offset glitch */
+html {
+  overflow-y:scroll;
+}
+
 /**
  * Reset some basic elements
  */
