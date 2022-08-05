@@ -7,13 +7,13 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <div class="home-content">
+    {{ content }}
+  </div>
 
   {%- if site.posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- else -%}
-      <br>
     {%- endif -%}
     <div class="post-list">
       {%- for post in site.posts -%}

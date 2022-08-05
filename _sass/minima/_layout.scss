@@ -323,7 +323,7 @@
   }
 }
 
-.post-content {
+.post-content, .home-content {
   margin-bottom: $spacing-unit;
   text-align: justify;
 
@@ -349,6 +349,15 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  hr {
+    border: dashed 2px;
+    margin:  2em -5%;
   }
 }
 
