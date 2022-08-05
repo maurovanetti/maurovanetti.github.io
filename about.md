@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "?"
+shortcut: "?"
+title: "Che cos'è questo sito?"
 permalink: /about/
 ---
 

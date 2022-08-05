@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+<div class="home">  
 
-<div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -10,23 +10,29 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2>
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- else -%}
+      <br>
+    {%- endif -%}
     <div class="post-list">
       {%- for post in site.posts -%}
-      <div class="post">
-        {%- if site.show_excerpts -%}
-          <div class="post-excerpt">
-            {{ post.excerpt }}
-          </div>
+        {%- if page.tag == null or post.tags contains page.tag -%}
+        <div class="post">
+          {%- if site.show_excerpts -%}
+            <div class="post-excerpt">
+              {{ post.excerpt }}
+            </div>
+          {%- endif -%}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta"><strong>{{ post.date | date: date_format }}</strong> {% include inline-tag-list.md list=post %}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+        </div>
         {%- endif -%}
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-      </div>
       {%- endfor -%}
     </div>
   {%- endif -%}
