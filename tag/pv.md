@@ -2,7 +2,7 @@
 layout: tag
 title: "Pavia"
 list_title: "Post di argomento pavese:"
-tag: games
+tag: pv
 ---
 Sono molto legato alla mia città: Pavia. Si potrebbe dire che sono un po' in fissa.
 
