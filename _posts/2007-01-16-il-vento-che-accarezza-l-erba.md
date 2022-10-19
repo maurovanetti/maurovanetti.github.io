@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "«Il vento che accarezzava l'erba»: un film su lotta di classe e liberazione nazionale"
-tags: pol
+title: "«Il vento che accarezza l'erba»: un film su lotta di classe e liberazione nazionale"
+tags: pol media
 ---
 L'ultimo film di Ken Loach è veramente un esempio perfetto dello stile e del messaggio del famoso regista comunista inglese, che con questo lavoro si è guadagnato a Cannes la Palma d'Oro - e, a Londra, un'altra dose di meritato odio da parte della classe dominante e dei suoi tirapiedi.
 
@@ -29,4 +29,8 @@ La violenza nel film però è anche quella "fratricida". Anche qui, Loach non ce
 
 Un'ultima considerazione va fatta sul piano storico, e mostra forse la mancanza maggiore del film (non dal punto di vista artistico, ma indubbiamente da quello politico): cosa è successo dopo? Hanno prevalso i Teddy o i Damien? In realtà formalmente nessuno dei due. Lo Stato Libero d'Irlanda ha vita breve, viene fondato ufficialmente dopo l'uccisione di Collins, nel dicembre 1922. Nel 1932 Cosgrave, il successore di Collins (e decisamente più moderato ed anticomunista di questi) viene sconfitto alle elezioni dal nuovo partito Fianna Fáil, guidato dal più radicale Eamon De Valera, che aveva guidato l'ala intransigente durante la Guerra Civile. L'impianto dello Stato Libero viene gradualmente smantellato (con la proclamazione dell'Éire nel 1937) e si arriva nel giro di pochi anni, complice anche la Seconda Guerra Mondiale e l'avvio di un processo di decolonizzazione su scala mondiale, alla formazione di una repubblica indipendente con l'eccezione della parte settentrionale dell'isola che resta occupata dai britannici. In politica interna, tuttavia, De Valera realizza esattamente la profezia negativa di Connolly: si issano bandiere tricolori sulle sedi del potere politico ma la bandiera invisibile del Capitale resta issata su tutti gli altri edifici. Retrospettivamente, si afferma spesso che le vicende successive dimostrarono che aveva ragione Collins a dire che il Trattato di Pace con l'Impero Britannico non garantiva la libertà ma garantiva «la libertà di ottenere la libertà»; esiste una citazione di De Valera ormai anziano, con cui si chiude il film Michael Collins, in cui "Dev" si riconcilia simbolicamente col proprio avversario, dicendo che la figura di Collins va rivalutata. La verità è che il nazionalismo borghese e piccoloborghese, anche quando "intransigente", non legando la "questione sociale" alla questione nazionale, finisce sempre in una forma o in un'altra di opportunismo. Lo stesso Provisional Sinn Féin (quelli che di solito si intende indicare in Italia quando si dice "IRA"), che ha mantenuto per decenni verso l'Éire una posizione simile a quella di De Valera verso l'Irish Free State, è poi finito, con il Good Friday Agreement, per percorrere una strada di compromesso del tutto simile.
 
-La vittoria di De Valera, e l'attuale esistenza di un'isola capitalista, dominata dal clero cattolico e spaccata in due dalla politica criminale "divide et impera" dell'imperialismo britannico, è alla fine un'ironica rivincita di Teddy O'Donovan. Damien O'Donovan sta ancora aspettando la Repubblica Socialista d'Irlanda sognata da [James Connolly](https://www.youtube.com/watch?v=9itkXeXwLEY). E noi con lui.
+La vittoria di De Valera, e l'attuale esistenza di un'isola capitalista, dominata dal clero cattolico e spaccata in due dalla politica criminale "divide et impera" dell'imperialismo britannico, è alla fine un'ironica rivincita di Teddy O'Donovan. Damien O'Donovan sta ancora aspettando la Repubblica Socialista d'Irlanda sognata da James Connolly. E noi con lui.
+
+*Su James Connolly, si veda anche il mio video nella serie prodotta da Sinistra Classe Rivoluzione sui grandi rivoluzionari della storia:*
+
+{% include youtube.html id="9itkXeXwLEY" height=500 %}
