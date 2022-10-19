@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mio nonno contro il divario salariale tra uomini e donne
-tags: pol
+tags: pol pv
 ---
 Mio nonno, **Lionello Vanetti**, classe 1909, è stato partigiano nelle brigate Garibaldi e, dopo la guerra, ha fatto l'avvocato per la Camera del Lavoro di Pavia.
 

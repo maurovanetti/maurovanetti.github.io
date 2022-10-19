@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contro Pavia Città Criminale
-tags: pol
+tags: pol pv
 ---
 Pavia Città Criminale è un centro del Nord Italia che ogni giorno di più assomiglia ad una cittadina del nostro Mezzogiorno; siamo caduti vittima degli stessi processi sociali ed economici.
 
