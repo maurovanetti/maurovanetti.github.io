@@ -32,6 +32,7 @@ permalink: /:year/:slug:output_ext
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Used by Minima theme
 lang: it
