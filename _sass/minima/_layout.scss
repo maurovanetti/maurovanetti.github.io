@@ -379,7 +379,8 @@
 }
 
 .comment-list {
-  margin-left: 20px;
+  margin-top: $spacing-unit * 3;
+  margin-left: $spacing-unit * 2;
   list-style: none;
 
   .comment {
