@@ -294,7 +294,7 @@
   
 }
 
-.post-meta {
+.post-meta, .comment-meta {
   font-size: $small-font-size;
   color: $grey-color;
 }
@@ -323,7 +323,7 @@
   }
 }
 
-.post-content, .home-content {
+.post-content, .home-content, .comment-content {
   margin-bottom: $spacing-unit;
   text-align: justify;
 
@@ -360,6 +360,36 @@
     margin:  2em -5%;
   }
 }
+
+/**
+ * Comments
+ */
+.comment-title {
+  @include relative-font-size(1.1);
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(1);
+  }
+}
+
+.comment-content {
+  @include relative-font-size(0.9);
+}
+
+.comment-list {
+  margin-left: 20px;
+  list-style: none;
+
+  .comment {
+    border: solid $grey-color-light;
+    border-radius: 5px;
+    padding: $spacing-unit;
+    margin-bottom: $spacing-unit;
+  }
+}
+
 
 .twitter-timeline {
   margin: auto;

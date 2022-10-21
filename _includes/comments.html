@@ -1,0 +1,30 @@
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{% assign has_comments = false %}
+{% for comment in site.comments %}
+    {% if comment.post == page.slug %}
+        {% assign has_comments = true %}        
+    {% endif %}
+{% endfor %}
+{% if has_comments %}
+<div class="comment-list">
+    <h2>Commenti dei visitatori</h2>
+    {% for comment in site.comments %}
+        {% if comment.post == page.slug %}
+        <div class="comment">
+            <h3 class="comment-title">{{ comment.title }}</h3>
+            <p class="comment-meta">
+                <strong>
+                    {% if comment.author_url %}
+                        <a href="{{ comment.author_url }}">{{ comment.author }}</a>
+                    {% else %}
+                        {{ comment.author }}
+                    {% endif %}
+                </strong>
+                 • {{ comment.date | date: date_format }}
+            </p>
+            <p class="comment-content">{{ comment.content }}</p>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
