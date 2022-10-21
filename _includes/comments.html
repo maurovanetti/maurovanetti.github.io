@@ -7,7 +7,7 @@
 {% endfor %}
 {% if has_comments %}
 <div class="comment-list">
-    <h2>Commenti dei visitatori</h2>
+    <h2>Commenti in evidenza</h2>
     {% for comment in site.comments %}
         {% if comment.post == page.slug %}
         <div class="comment">
