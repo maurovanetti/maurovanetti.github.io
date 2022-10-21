@@ -1,5 +1,7 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
 
+<div class="comment-list">
+  <small>I commenti più interessanti verranno preservati nel sito. Aggiungine qui:</small>
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
@@ -15,6 +17,6 @@
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
     })();
-  </script>  
-  <small>I commenti più interessanti verranno preservati nel sito.</small>
+  </script>    
+</div>
 {%- endif -%}
