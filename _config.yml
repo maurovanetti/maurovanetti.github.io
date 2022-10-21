@@ -46,8 +46,8 @@ instagram_username: mauro.vanetti
 linkedin_username: maurovanetti
 rss: rss
 show_excerpts: true
-disqus:
-  shortname: maurovanetti
+# disqus:
+#  shortname: maurovanetti
 
 # Used by custom theme (based on Minima)
 footer_message: Arbeiter aller Länder vereinigt Euch!
