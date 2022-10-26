@@ -11,4 +11,5 @@ A quanto leggo, nel 1959, difendendo due operaie, ha fatto annullare un intero a
 
 Buona lettura.
 
-{% include figure.html file="unita_28_11_1959_sentenza_nonno_nello.jpeg" %}
+{% include figure.html file="unita_28_11_1959_sentenza_nonno_nello.jpeg" 
+   alt="Ritaglio di giornale intitolato «Importante sentenza per la parità salariale»" %}

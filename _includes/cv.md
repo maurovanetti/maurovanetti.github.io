@@ -1,3 +1,5 @@
+{% include figure.html file="mauro-vanetti-defense-2022.png" alt="Mauro Vanetti a Parigi nel 2022" %}
+
 ## Dati anagrafici
 
 *Titolo e nome*
