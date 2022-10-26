@@ -5,26 +5,32 @@
         {% assign has_comments = true %}        
     {% endif %}
 {% endfor %}
-{% if has_comments %}
-<div class="comment-list">
-    <h2>Commenti dei visitatori</h2>
-    {% for comment in site.comments %}
-        {% if comment.post == page.slug %}
-        <div class="comment">
-            <h3 class="comment-title">{{ comment.title }}</h3>
-            <p class="comment-meta">
-                <strong>
-                    {% if comment.author_url %}
-                        <a href="{{ comment.author_url }}">{{ comment.author }}</a>
-                    {% else %}
-                        {{ comment.author }}
-                    {% endif %}
-                </strong>
-                 • {{ comment.date | date: date_format }}
-            </p>
-            <p class="comment-content">{{ comment.content }}</p>
-        </div>
-        {% endif %}
-    {% endfor %}
+{% if has_comments or page.comments != false %}
+<div class="comment-list">    
+    {% if has_comments %}
+        <h2>Commenti dei visitatori</h2>
+        {% for comment in site.comments %}
+            {% if comment.post == page.slug %}
+            <div class="comment">
+                <h3 class="comment-title">{{ comment.title }}</h3>
+                <p class="comment-meta">
+                    <strong>
+                        {% if comment.author_url %}
+                            <a href="{{ comment.author_url }}">{{ comment.author }}</a>
+                        {% else %}
+                            {{ comment.author }}
+                        {% endif %}
+                    </strong>
+                    • {{ comment.date | date: date_format }}
+                </p>
+                <p class="comment-content">{{ comment.content }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}    
+    {% endif %}
+    {% if page.comments != false %}
+        <div><a href="mailto:posta@maurovanetti.info?subject={{ page.title | uri_escape }}">Lascia un commento</a></div>
+        <div><small>I commenti più interessanti saranno <a href="/about.html#una-nota-sui-commenti">preservati sul sito</a>.</small></div>
+    {% endif %}
 </div>
 {% endif %}

@@ -57,8 +57,8 @@ collections:
   - comments
 
 # Talkyard commenting system
-talkyard_server_url: https://site-101hzmsb51.talkyard.net
-talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
+# talkyard_server_url: https://site-101hzmsb51.talkyard.net
+# talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.
