@@ -39,6 +39,9 @@ lang: it
 minima:
   date_format: "%e/%-m/%Y"
 author: Mauro Vanetti
+mastodon:
+  - username: maurovanetti
+    instance: livellosegreto.it
 twitter_username: maurovanetti
 github_username:  maurovanetti
 facebook_username: mauro.vanetti
