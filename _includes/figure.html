@@ -3,6 +3,6 @@
     <img src="/assets/img/{{ include.file }}" alt="{{ include.alt | default=include.caption }}"/>
     </a>
     {% if include.caption %}
-        <figcaption>{{ include.caption }}</figcaption>
+        <figcaption>{{ include.caption | markdownify }}</figcaption>
     {% endif %}
  </figure>
