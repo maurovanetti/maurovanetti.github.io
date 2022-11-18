@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Che in Italia ci sia un enorme analfabetismo funzionale è una bufala?
+title: L'enorme analfabetismo funzionale in Italia è una bufala?
 tags: pol
 ---
 Risposta breve: sì, infatti il 95% della popolazione non è analfabeta funzionale.
+
+{% include figure.html file="analfabetismo-funzionale/da-zdravstvuet-solitse.png" 
+   alt="Manifesto della Repubblica Socialista Federale Sovietica Russa a favore dell'alfabetizzazione di massa" 
+   caption="Manifesto della Repubblica Socialista Federale Sovietica Russa a favore dell'alfabetizzazione di massa" %}
 
 {% include figure.html file="analfabetismo-funzionale/indagine-all.jpeg" 
    alt="«La rilevazione condotta in relazione all'indagine ALL nell'anno 2003 evidenzia che il 5,4% di popolazione italiana si trova in questa condizione»" 
@@ -87,7 +91,7 @@ Tanto per chiudere in bellezza su questo tema, i dati del successivo sondaggio A
 
 Nel 2008 l'UNESCO pubblica un rapporto che contiene, tra molte altre cose, una critica piuttosto dura di questo primo studio. Ecco la pagina dove l'UNESCO quasi demolisce lo IALS:
 
-{% include figure.html file="analfabetismo-funzionale/ials-racism.jpeg" 
+{% include figure.html file="analfabetismo-funzionale/unesco-vs-ials.jpeg" 
    alt="Critiche UNESCO allo IALS" 
    caption="[Fonte](http://uis.unesco.org/sites/default/files/documents/international-literacy-statistics-a-review-of-concepts-methodology-and-current-data-en_0.pdf)" %}
 
@@ -103,7 +107,7 @@ Quindi abbiamo scoperto che dove si è più poveri si è mediamente più ignoran
 
 Ecco i risultati del campione italiano secondo i vari test:
 
-{% include figure.html file="analfabetismo-funzionale/prose-literacy-by-country.jpeg" 
+{% include figure.html file="analfabetismo-funzionale/prose-literacy-italy.jpeg" 
    alt="Grafico con i risultati italiani in Prose, Document, Numeracy e Problem Solving" 
    caption="[Fonte](https://books.google.it/books?id=40OtXh_qcuwC)" %}
 
