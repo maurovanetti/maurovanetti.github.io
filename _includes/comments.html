@@ -6,7 +6,7 @@
     {% endif %}
 {% endfor %}
 {% if has_comments or page.comments != false %}
-<div class="comment-list">    
+<div class="comment-list">
     {% if has_comments %}
         <h2>Commenti dei visitatori</h2>
         {% for comment in site.comments %}
@@ -23,7 +23,7 @@
                     </strong>
                     • {{ comment.date | date: date_format }}
                 </p>
-                <p class="comment-content">{{ comment.content }}</p>
+                <p class="comment-content">{{ comment.content | markdownify }}</p>
             </div>
             {% endif %}
         {% endfor %}    
