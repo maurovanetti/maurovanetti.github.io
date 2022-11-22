@@ -4,7 +4,7 @@ title: «The Battle of Chile»
 slug: chile
 tags: pol media en
 ---
-These are the reviews, published on [In Defence of Marxism](http://www.marxist.com/) and [Hands Off Venezuela](http://www.handsoffvenezuela.org/), of the three parts of Patricio Guzmàn's film *The Battle of Chile* (*La batalla de Chile*) screened in London in 2008. I've been responsible for this series of screenings during Autumn 2008.
+These are the reviews, published on [In Defence of Marxism](http://www.marxist.com/) and [Hands Off Venezuela](http://www.handsoffvenezuela.org/), of the three parts of Patricio Guzmán's film *The Battle of Chile* (*La batalla de Chile*) screened in London in 2008. I've been responsible for this series of screenings during Autumn 2008.
 
 ***
 
@@ -13,7 +13,7 @@ I - The Insurrection of the Bourgeoisie
 
 {% include youtube.html id="1LDaYRZUsnc" %}
 
-On August 20th, 2008, the film season *[Venezuela: a revolution on film](http://venezuelarevolutionfilm.blogspot.com/)*, organised in London by Hands Off Venezuela in association with the Venezuelan Embassy, attracted more than forty people again to the screening of the first part of *The Battle of Chile*.  As usual, Pablo Roldan (HOV) introduced the screening in Bolívar Hall. This documentary is a fantastic video document on the Chilean Revolution and its defeat, shot during the course of the events by Patricio Gúzman and his team.
+On August 20th, 2008, the film season *[Venezuela: a revolution on film](http://venezuelarevolutionfilm.blogspot.com/)*, organised in London by Hands Off Venezuela in association with the Venezuelan Embassy, attracted more than forty people again to the screening of the first part of *The Battle of Chile*.  As usual, Pablo Roldan (HOV) introduced the screening in Bolívar Hall. This documentary is a fantastic video document on the Chilean Revolution and its defeat, shot during the course of the events by Patricio Guzmán and his team.
 
 The first part covers the period of time spanning from March 1973, when the left-wing coalition Popular Unity gets 43.7% of the votes, preventing the Right from legally impeaching the Socialist President Salvador Allende, until the first coup attempt, less than four months later. The title of this part is, significantly, *The Insurrection of the Bourgeoisie*.
 
