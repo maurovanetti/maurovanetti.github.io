@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Si acuisce la crisi delle criptovalute"
-tags: geek pol
+tags: geek pol media
 ---
 L'11 novembre la terza più grande Borsa di criptovalute, FTX, con sede alle Bahamas, ha dichiarato fallimento. Dirigenti e impiegati hanno lasciato in fretta e furia i Caraibi, cercando rifugio in qualche luogo ancora più opaco.
 
@@ -13,7 +13,7 @@ Quando Binance, un'azienda concorrente, ha deciso di liquidare tutti i suoi FTT,
 
 Poche ore dopo il crack, un misterioso hacker interno all'azienda ha fatto sparire 473 milioni di fondi dalle casse seppur virtuali di FTX. Sarà stato un filosofo dell'egoismo efficace.
 
-Le onde d'urto di questa ennesima sciagura finanziaria non finiranno presto di propagarsi nel settore già disastrato delle criptovalute. Il Bitcoin, che secondo alcuni ingenui doveva crescere di prezzo costantemente e difendere il popolo dall'instabilità valutaria e dall'inflazione orchestrata dalle banche centrali, ha perso tre quartidel suo valore dal picco dell'anno scorso (da 68.000$ a 16.500$ quando scriviamo) e invece di risalire è da mesi che passa da una caduta a una caduta più profonda. Centinaia di migliaia di clienti di FTX hanno perso i loro investimenti e, quel che è peggio, quelli che per molti erano i risparmi di una vita. Si parla di miliardi di dollari svaniti nel nulla. Non sono solo cifre virtuali: risorse reali, materiali, sono dissipate nei consumi colossali dei computer usati per il conio delle criptovalute e per la registrazione delle transazioni nella blockchain; migliaia di persone hanno perso il lavoro nelle aziende del settore, e questo significa anche uffici fisici, infrastrutture elettroniche e informatiche ecc.
+Le onde d'urto di questa ennesima sciagura finanziaria non finiranno presto di propagarsi nel settore già disastrato delle criptovalute. Il Bitcoin, che secondo alcuni ingenui doveva crescere di prezzo costantemente e difendere il popolo dall'instabilità valutaria e dall'inflazione orchestrata dalle banche centrali, ha perso tre quarti del suo valore dal picco dell'anno scorso (da 68.000$ a 16.500$ quando scriviamo) e invece di risalire è da mesi che passa da una caduta a una caduta più profonda. Centinaia di migliaia di clienti di FTX hanno perso i loro investimenti e, quel che è peggio, quelli che per molti erano i risparmi di una vita. Si parla di miliardi di dollari svaniti nel nulla. Non sono solo cifre virtuali: risorse reali, materiali, sono dissipate nei consumi colossali dei computer usati per il conio delle criptovalute e per la registrazione delle transazioni nella blockchain; migliaia di persone hanno perso il lavoro nelle aziende del settore, e questo significa anche uffici fisici, infrastrutture elettroniche e informatiche ecc.
 
 Anche l'illusione che si potesse sfuggire ai mali del capitalismo con una forma diversa di capitalismo che usi denaro crittografico senza la mediazione delle banche centrali, che in fondo è l'ideologia "anarco-capitalista" alla base del Bitcoin e di tutto ciò che ne è seguito, è ormai sempre più screditata. Ai mali del capitalismo si sfugge solo col socialismo.
 
@@ -21,6 +21,6 @@ Anche l'illusione che si potesse sfuggire ai mali del capitalismo con una forma 
 
 Questo articolo è stato pubblicato su [Rivoluzione n° 93](https://www.rivoluzione.red/rivoluzione-n-93/).
 
-Per approfondire suggerisco anche la visione di questa conferenza a distanza, che ho organizzato insieme agli altri compagni e compagne del Circolo Ghinaglia, sul tema **Natura e destino delle criptovalute**. La relazione è stata tenuta il 13 luglio 2022 da Lorenzo Esposito (FISAC-CGIL Banca d'Italia, docente di economia monetaria all'Università Cattolica di Milano).
+Per approfondire suggerisco anche la visione di questa conferenza a distanza, che ho organizzato insieme agli altri compagni e compagne del [Circolo Ghinaglia](https://santacanaglia.org/), sul tema *Natura e destino delle criptovalute*. La relazione è stata tenuta il 13 luglio 2022 da **Lorenzo Esposito** (FISAC-CGIL Banca d'Italia, docente di economia monetaria all'Università Cattolica di Milano).
 
 {% include youtube.html id="W0vXkKbCwIU" %}
