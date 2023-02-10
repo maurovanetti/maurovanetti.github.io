@@ -44,12 +44,12 @@
 
 *Linguaggi, ambienti, framework e strumenti*
 
-- Più usati: Dart, Java, C#, Python, Django, Django CMS, SQL, HTML5, JavaScript, jQuery, Vue.js, Bootstrap, Git
+- Più usati: Dart, C#, Python, Java, Django, Django CMS, SQL, HTML5, JavaScript, jQuery, Vue.js, Bootstrap, Git
 - Altri: C, C++, J2EE, JSP, Spring, Hibernate, Ant, JavaCC, PHP, Node.js, VBScript, ASP, ASP.NET, SVN, ClearCase, Maven
 
 *Motori, ambienti e strumenti per lo sviluppo di videogiochi*
 
-- Unity, Unreal Engine, Fungus, Ink, Construct 3, Ren'Py, GameMaker, Phaser
+- Unity, Unreal Engine, Fungus, Ink, Construct 3, Flame, Ren'Py, GameMaker, Phaser
 
 *Piattaforme e framework per dispositivi mobili*
 
@@ -63,13 +63,13 @@
 
 Programmatore freelance ed esperto informatico a partita IVA. Progetti principali in corso negli ultimi mesi:
 
-- *Dal 2021* -- Tech lead nello sviluppo del videogioco in realtà aumentata per smartphone *House of the Dragon: DracARys*, sviluppato con Unity, pubblicato da WarnerMedia (New York) nel 2022.
-- *Dal 2021* -- Tech lead per la parte digitale del gioco ibrido per LIM *Missione Pietrarubbia* rivolto alle scuole, sviluppato con Unity, pubblicato nel 2022 da We Are Müesli (Milano) per la Fondazione Arnaldo Pomodoro (Milano).
 - *Dal 2020* -- Docente a contratto alla Nuova Accademia di Belle Arti (Milano) per i corsi di Game Design I, Game Design II, Game Production Lab, Metodologie della Progettazione e della Ricerca, Interactive Storytelling per Videogiochi, Game Development I.
 - *Dal 2019* -- Sviluppo con Flutter, Dart, Monaca e Vue.js di una serie di app multipiattaforma per smartphone rivolte al mondo universitario per In4matic (Pavia).
 
 ## Esperienze lavorative precedenti
 
+- *2021-2022* -- Tech lead nello sviluppo del videogioco in realtà aumentata per smartphone *House of the Dragon: DracARys*, sviluppato con Unity, pubblicato da WarnerMedia (New York).
+- *2021-2022* -- Tech lead per la parte digitale del gioco ibrido per LIM *Missione Pietrarubbia* rivolto alle scuole, sviluppato con Unity, pubblicato da We Are Müesli (Milano) per la Fondazione Arnaldo Pomodoro (Milano).
 - *2022* -- Formazione sui videogiochi e le tecniche di monetizzazione patogene e problematiche presso il Centro Steadycam (Alba, CN).
 - *2021* –- Consulenza sullo sviluppo di un videogioco in realtà virtuale per Magari (Fidenza, PR) con Unity, risultato vincitore del bando di Bologna Game Farm.
 - *2021* -- Docente in un corso di sviluppo di videogiochi usando Construct 3 nel Piano Scuola Estate dell'istituto di istruzione superiore Angelo Omodeo di Mortara (supervisore il prof. Jacopo Rovida).
@@ -171,7 +171,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 *Come tech lead e sviluppatore:*
 - [*House of the Dragon: DracARys*](https://play.google.com/store/apps/details?id=com.hbo.hotd), 2022 (videogioco), pubblicato da WarnerMedia.
-- *Missione Pietrarubbia*, 2022 (gioco ibrido), pubblicato da We Are Müesli (Milano).
+- [*Missione Pietrarubbia*](https://www.fondazionearnaldopomodoro.it/event/smartschooling/), 2022 (gioco ibrido), pubblicato da We Are Müesli (Milano).
 
 *Come sviluppatore e docente in un progetto educativo con minori:*
 - *Rotolarium*, 2018 (videogioco sviluppato insieme a una classe del nodo di Pavia del CoderDojo)
