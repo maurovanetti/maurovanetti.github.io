@@ -63,8 +63,10 @@
 
 Programmatore freelance ed esperto informatico a partita IVA. Progetti principali in corso negli ultimi mesi:
 
+- *2023* -- Progettazione e sviluppo con Flutter/Dart del videogioco per smartphone [*Guidi Tu*](https://github.com/maurovanetti/guidi-tu), volto al contrasto della guida in stato d'ebbrezza, per Cooperativa Alice (Alba, CN).
 - *Dal 2020* -- Docente a contratto alla Nuova Accademia di Belle Arti (Milano) per i corsi di Game Design I, Game Design II, Game Production Lab, Metodologie della Progettazione e della Ricerca, Interactive Storytelling per Videogiochi, Game Development I.
-- *Dal 2019* -- Sviluppo con Flutter, Dart, Monaca e Vue.js di una serie di app multipiattaforma per smartphone rivolte al mondo universitario per In4matic (Pavia).
+- *Dal 2019* -- Sviluppo con Flutter/Dart, Monaca/Vue.js di una serie di app multipiattaforma per smartphone rivolte al mondo universitario per In4matic (Pavia).
+
 
 ## Esperienze lavorative precedenti
 
