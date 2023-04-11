@@ -1,3 +1,8 @@
+---
+layout: post
+title: La funivia provocatrice
+tags: pol
+---
 Vostro Onore, signori della Giuria,\
 vi prego, guardate in faccia questi due uomini. Sono i Capitani Richard Ashby e Joseph Schweitzer, due patrioti americani, dello stimato Corpo dei Marò.
 
