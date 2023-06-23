@@ -42,7 +42,7 @@ author: Mauro Vanetti
 mastodon:
   - username: maurovanetti
     instance: livellosegreto.it
-twitter_username: maurovanetti
+# twitter_username: maurovanetti
 github_username:  maurovanetti
 facebook_username: mauro.vanetti
 instagram_username: mauro.vanetti

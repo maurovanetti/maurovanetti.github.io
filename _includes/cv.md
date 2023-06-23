@@ -164,6 +164,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 ## Pubblicazioni ludiche
 
 *Come autore:*
+- [*Trickle-Down Economics*](https://maurovanetti.itch.io/tde), 2023 (videogioco minimo).
 - [*Ink-Fungus Gateway*](https://maurovanetti.itch.io/ifg), 2020 (strumento di sviluppo per videogiochi).
 - [*Little Antifa Novel*](https://maurovanetti.itch.io/lan), 2017 (videogioco).
 - [*Two Interviewees*](https://maurovanetti.itch.io/2i) [*Due Colloqui di Lavoro*], 2016 (videogioco).
@@ -200,7 +201,8 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 - *Doh!*, 1995 circa (gioco astratto).
 
 ## Altre esperienze ed eventi ludici
-- *2022* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
+- *2023* -- Ideatore della performance di improvvisazione [*Videogiochi Improvvisati*](https://improvg.itch.io/) con Jacopo Rovida, presentata a *Play in the City* (Modena).
+- *2022-2023* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
 - *2022* -- Fondatore e organizzatore del [nodo di Pavia della Global Game Jam](https://globalgamejam.org/2022/jam-sites/global-game-jam-pavia).
 - *2021* -- Selezionato per l’esposizione di videogiochi indipendenti testuali *WordPlay* (Toronto) con il videogioco *Divide Et Impera*.
 - *2018-2019* -- Fondatore e organizzatore delle prime due edizioni di *Videogiocanda* (Pavia), evento sul gioco digitale all’interno di *Giocanda*, festival del gioco di strada.
