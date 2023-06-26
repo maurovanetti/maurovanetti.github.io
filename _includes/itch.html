@@ -1,7 +1,13 @@
 <iframe 
   frameborder="0" 
+{% if include.id %}
   src="https://itch.io/embed-upload/{{ include.id }}?color=000000" 
   allowfullscreen="" 
-  width="100%" height="500">
+  height="500"
+{% else %}
+  src="{{ include.widget }}"
+  height="171"
+{% endif %}  
+  width="100%" >
   <a href="{{ include.url }}">Giocaci su itch.io</a>
 </iframe>
