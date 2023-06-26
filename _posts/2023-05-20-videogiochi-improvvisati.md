@@ -24,4 +24,4 @@ Comandi da tastiera: **frecce** o **W/A/D** per muoversi e saltare, **spazio
 
 Questo gioco è stato improvvisato il 20 maggio 2023 a Modena, in un paio d'ore, sulla base delle indicazioni del pubblico nel meraviglioso teatro della Fondazione San Carlo. Questa è una versione ripulita e giocabile di quanto è stato prodotto quella sera.
 
-{% include itch.html id="7967123" color="ffeea3" url="https://improvg.itch.io/polpo-vs-patate" %}
+{% include itch.html id="7967123" url="https://improvg.itch.io/polpo-vs-patate" %}
