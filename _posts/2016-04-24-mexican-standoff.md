@@ -10,7 +10,7 @@ Ne sono stato molto felice, anche perché i miei compagni di squadra erano fanta
 
 La versione che presento qui è leggermente riaggiustata e con l'aggiunta di una progressione di livelli.
 
-{% include itch.html id="170458" url="https://maurovanetti.itch.io/mexican-standoff" %}
+{% include itch.html id="170458" url="https://maurovanetti.itch.io/mexican-standoff" color="f2a247" %}
 
 <br>
 

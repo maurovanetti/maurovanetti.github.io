@@ -1,13 +1,19 @@
-<iframe 
-  frameborder="0" 
+{% capture iframe %}
+  <iframe
+    {% if include.id %}
+      src="https://itch.io/embed-upload/{{ include.id }}?color={{ include.color | default:'000000' }}"
+      allowfullscreen=""      
+    {% else %}
+      src="{{ include.widget }}"
+      height="171px"
+      style="border-radius: 0;"
+    {% endif %}
+  >
+    <a href="{{ include.url }}">Giocaci su itch.io</a>
+  </iframe>
+{% endcapture %}
 {% if include.id %}
-  src="https://itch.io/embed-upload/{{ include.id }}?color=000000" 
-  allowfullscreen="" 
-  height="500"
+  {% include aspect-ratio.html content=iframe height="65%" %}
 {% else %}
-  src="{{ include.widget }}"
-  height="171"
-{% endif %}  
-  width="100%" >
-  <a href="{{ include.url }}">Giocaci su itch.io</a>
-</iframe>
+  {{ iframe }}
+{% endif %}
