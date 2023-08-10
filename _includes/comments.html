@@ -11,12 +11,19 @@
         <h2>Commenti dei visitatori</h2>
         {% for comment in site.comments %}
             {% if comment.post == page.slug %}
-            <div class="comment">
+                {% if comment.author == "Mauro Vanetti" %}
+                    {% assign author_url = "https://maurovanetti.info/" %}
+                    {% assign comment_class = "comment own-comment" %}
+                {% else %}
+                    {% assign author_url = comment.author_url %}
+                    {% assign comment_class = "comment reader-comment" %}
+                {% endif %}
+            <div class="{{ comment_class }}">
                 <h3 class="comment-title">{{ comment.title }}</h3>
                 <p class="comment-meta">
                     <strong>
                         {% if comment.author_url %}
-                            <a href="{{ comment.author_url }}">{{ comment.author }}</a>
+                            <a href="{{ author_url }}">{{ comment.author }}</a>
                         {% else %}
                             {{ comment.author }}
                         {% endif %}

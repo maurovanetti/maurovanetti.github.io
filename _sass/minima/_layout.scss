@@ -389,6 +389,10 @@
     padding: $spacing-unit;
     margin-bottom: $spacing-unit;
   }
+
+  .own-comment {
+    background-color: lighten($brand-color, 55%);
+  }
 }
 
 
