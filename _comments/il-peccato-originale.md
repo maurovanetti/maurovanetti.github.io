@@ -1,6 +1,6 @@
 ---
 title: Il peccato originale
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-23 12:01:00 +0200
 author: AFFUS
 author_url: http://sensodellapolitica.blogspot.com/

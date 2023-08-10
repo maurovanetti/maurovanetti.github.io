@@ -1,6 +1,6 @@
 ---
 title: Se sei convinto
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-24 00:46:00 +0200
 author: Sandro Lanzafame
 ---

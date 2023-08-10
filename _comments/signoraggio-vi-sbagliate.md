@@ -1,6 +1,6 @@
 ---
 title: Vi sbagliate
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-22 18:31:00 +0200
 author: ludwig375
 ---

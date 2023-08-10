@@ -1,6 +1,6 @@
 ---
 title: Avanzo primario e avanzo secondario
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-22 19:18:00 +0200
 author: Mauro Vanetti
 author_url: https://maurovanetti.info

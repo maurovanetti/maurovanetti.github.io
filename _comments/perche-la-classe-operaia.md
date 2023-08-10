@@ -1,6 +1,6 @@
 ---
 title: Perché siamo così fissati con la classe operaia?
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-25 22:28:00 +0200
 author: Mauro Vanetti
 author_url: https://maurovanetti.info

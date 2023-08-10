@@ -1,6 +1,6 @@
 ---
 title: Signoraggio
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-25 11:31:00 +0200
 author: AFFUS
 author_url: http://sensodellapolitica.blogspot.com/

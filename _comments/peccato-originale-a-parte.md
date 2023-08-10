@@ -1,6 +1,6 @@
 ---
 title: Peccato originale a parte
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-23 19:57:00 +0200
 author: BM
 ---

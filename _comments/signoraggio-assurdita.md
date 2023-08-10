@@ -1,6 +1,6 @@
 ---
 title: Assurdità
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-24 00:24:00 +0200
 author: Sandro Lanzafame
 ---

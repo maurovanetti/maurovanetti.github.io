@@ -1,6 +1,6 @@
 ---
 title: Chi spara cazzate?
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-23 12:01:00 +0200
 author: BM
 ---

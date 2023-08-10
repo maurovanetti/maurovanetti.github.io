@@ -1,6 +1,6 @@
 ---
 title: Lo pagherà lei
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-23 22:24:00 +0200
 author: SD
 ---

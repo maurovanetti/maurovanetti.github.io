@@ -1,6 +1,6 @@
 ---
 title: La bufala del "passivo" nel bilancio delle banche centrali
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-25 21:17:00 +0200
 author: Mauro Vanetti
 author_url: https://maurovanetti.info

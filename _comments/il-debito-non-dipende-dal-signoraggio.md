@@ -1,6 +1,6 @@
 ---
 title: Il debito pubblico dipende dal signoraggio?
-post: signoraggio-faq
+post: signoraggio
 date: 2012-03-25 21:25:00 +0200
 author: Mauro Vanetti
 author_url: https://maurovanetti.info
