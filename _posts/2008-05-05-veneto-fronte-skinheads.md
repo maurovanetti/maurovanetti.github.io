@@ -25,6 +25,6 @@ Stringe il cuore leggere le parole coraggiose dei genitori di Delle Donne: *«P
 
 ***
 
-La lettera si riferisce all'uccisione di **Nicola Tommasoli**. Per quell'omicidio sono stati condannati, oltre al citato Raffaele Delle Donne, altri quattro fascisti: Federico Perini, Nicolò Veneri, Guglielmo Corsi e Andrea Vesentini.
+La lettera (pubblicata dalla Provincia Pavese il 9 maggio 2008) si riferisce all'uccisione di **Nicola Tommasoli**. Per quell'omicidio sono stati condannati, oltre al citato Raffaele Delle Donne, altri quattro fascisti: Federico Perini, Nicolò Veneri, Guglielmo Corsi e Andrea Vesentini.
 
-La sede di Forza Nuova a Pavia di cui parlavo nella lettera è stata "assediata" da noi antifascisti pochi mesi dopo in reazione a un'ennesima aggressione, mentre stavo ancora a Londra, e [chiusa precipitosamente](https://old.marxismo.net/antifa/antifascismo/antifascismo/chiude-la-sede-di-forza-nuova-a-pavia) dai fascisti stessi il giorno dopo. Oggi quello stesso locale è diventato [la nostra sede](https://santacanaglia.org/), intitolata al dirigente comunista e martire antifascista Ferruccio Ghinaglia.
+La sede di Forza Nuova a Pavia di cui parlavo nella lettera è stata "assediata" da noi antifascisti pochi mesi dopo in reazione a un'ennesima aggressione, mentre stavo ancora a Londra, e [chiusa precipitosamente](https://old.marxismo.net/antifa/antifascismo/antifascismo/chiude-la-sede-di-forza-nuova-a-pavia) dai fascisti stessi il giorno dopo. Oggi quello stesso locale è ironicamente diventato [la nostra sede](https://santacanaglia.org/), intitolata al dirigente comunista e martire antifascista Ferruccio Ghinaglia.
