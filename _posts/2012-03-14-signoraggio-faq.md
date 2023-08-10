@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Signoraggio FAQ
+slug: signoraggio
 tags: pol
 ---
 Queste FAQ (domande poste sovente) mi sono state chieste da Valerio Evangelisti mediante un'email dall'eloquente oggetto «Il signoraggio è una stronzata». Voleva pubblicare qualcosa di forte su Carmilla per contrastare la penetrazione nella sinistra delle assurde teorie complottiste sul signoraggio bancario.
