@@ -13,7 +13,11 @@
   </iframe>
 {% endcapture %}
 {% if include.id %}
-  {% include aspect-ratio.html content=iframe height="65%" %}
+  {% if include.orientation == "portrait" %}
+    {% include aspect-ratio.html content=iframe height="200%" %}
+  {% else %}
+    {% include aspect-ratio.html content=iframe height="65%" %}
+  {% endif %}
 {% else %}
   {{ iframe }}
 {% endif %}
