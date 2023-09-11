@@ -11,7 +11,7 @@ These are the reviews, published on [In Defence of Marxism](http://www.marxist.
 I - The Insurrection of the Bourgeoisie
 ---------------------------------------
 
-{% include youtube.html id="1LDaYRZUsnc" %}
+{% include youtube.html id="CnTPJ6kmB0s" %}
 
 On August 20th, 2008, the film season *[Venezuela: a revolution on film](http://venezuelarevolutionfilm.blogspot.com/)*, organised in London by Hands Off Venezuela in association with the Venezuelan Embassy, attracted more than forty people again to the screening of the first part of *The Battle of Chile*.  As usual, Pablo Roldan (HOV) introduced the screening in Bolívar Hall. This documentary is a fantastic video document on the Chilean Revolution and its defeat, shot during the course of the events by Patricio Guzmán and his team.
 
@@ -53,8 +53,6 @@ The army ranks themselves are made of working-class people. Victorious revolutio
 
 II - The Coup d'État
 --------------------
-
-{% include youtube.html id="M2imFDtUS5Q" %}
 
 On September 10th, 2008, *The Coup d'État*, the second part of Patricio Guzmán's *The Battle of Chile* was screened in Bolívar Hall in London, as part of the *Hands Off Venezuela Film Series* organised in collaboration with the Venezuelan Embassy in the UK.
 
@@ -112,8 +110,6 @@ In the final remarks, a HOV member said that history seems easier to understand 
 
 III - People's Power
 --------------------
-
-{% include youtube.html id="jhgIZNXBxH8" %}
 
 On Wednesday, October 5th, in Bolívar Hall in London, 25 people attended the screening of *"People's Power"* (*"El poder popular"*) the third part of *"The Battle of Chile"* (*"La batalla de Chile"*), by Patricio Guzmán. This film was produced in 1979, some years after the first two parts of *"The Battle of Chile" *had already become a "classic" on the development and defeat of the Chilean Revolution and the Allende government.
 
