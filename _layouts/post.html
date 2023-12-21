@@ -14,7 +14,9 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>      
-      {% include inline-tag-list.md list=page %}
+      {% include inline-tag-list.html list=page %}
+      {% include original.html original=page.original %}
+      {% include translations.html ref=page.ref %}      
     </p>
   </header>
 

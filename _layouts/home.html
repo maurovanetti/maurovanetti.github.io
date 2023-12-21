@@ -19,19 +19,42 @@ layout: default
     <div class="post-list">
       {%- for post in site.posts -%}
         {%- if page.tag == null or post.tags contains page.tag -%}
-        <div class="post">
-          {%- if site.show_excerpts -%}
-            <div class="post-excerpt">
-              {{ post.excerpt }}
+          {%- if post.original == null -%}
+            <div class="post">
+              {%- if site.show_excerpts -%}
+                <div class="post-excerpt">
+                  {{ post.excerpt }}
+                </div>
+              {%- endif -%}          
+              <span class="post-meta"><strong>{{ post.date | date: date_format }}</strong> {% include inline-tag-list.html list=post %}</span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
             </div>
-          {%- endif -%}          
-          <span class="post-meta"><strong>{{ post.date | date: date_format }}</strong> {% include inline-tag-list.md list=post %}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-        </div>
+            {%- if post.ref -%}
+              {%- for translation in site.posts -%}
+                {%- if translation.original -%}
+                  {%- if translation.original == post.ref -%}
+                    <div class="translated-post">
+                      {%- if site.show_excerpts -%}
+                        <div class="post-excerpt">
+                          {{ translation.excerpt }}
+                        </div>
+                      {%- endif -%}          
+                      <span class="post-meta"><strong>traduzione</strong> {% include inline-tag-list.html list=translation %}</span>
+                      <h3>
+                        <a class="post-link" href="{{ translation.url | relative_url }}">
+                          {{ translation.title | escape }}
+                        </a>
+                      </h3>
+                    </div>                       
+                  {%- endif -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endif -%}
+          {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
     </div>

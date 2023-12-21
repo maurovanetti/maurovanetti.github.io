@@ -210,7 +210,7 @@
   margin-left: 0;
   list-style: none;
 
-  > .post {
+  > .post, .translated-post {
     height: $preview-height;
     border: solid $grey-color-light;
     background-color: $foreground-color;
@@ -241,6 +241,14 @@
         width: initial;
       }
     }    
+  }
+
+  > .translated-post {
+    margin-top: -$spacing-unit;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-radius: 0 0 5px 5px;
+    border: 0;
   }
   
   > .post:nth-child(7n + 2) {
