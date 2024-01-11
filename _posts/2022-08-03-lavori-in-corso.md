@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sito in manutenzione
+title: Sito in migrazione
 tags: info geek
-ref: maintenance
+ref: migration
 ---
-Questo sito-sgabuzzino è in manutenzione.
+Sto migrando i vecchi contenuti di questo sito-sgabuzzino dalla sua precedente incarnazione.
 
 Datemi un po' di tempo.
 
