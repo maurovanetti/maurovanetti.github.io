@@ -58,6 +58,25 @@ layout: default
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
+          {%- elsif page.tag == 'en' -%}
+            <!-- Special case for translated posts in the English-language page -->
+            <div class="post">
+              {%- if site.show_excerpts -%}
+                <div class="post-excerpt">
+                  {{ post.excerpt }}
+                </div>
+              {%- endif -%}
+              <span class="post-meta">                
+                <strong>{{ post.date | date: date_format }}</strong>
+                {% include inline-tag-list.html list=post %}
+                • translated
+              </span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+            </div>
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
