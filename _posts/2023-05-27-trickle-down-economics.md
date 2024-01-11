@@ -2,10 +2,11 @@
 layout: post
 title: Trickle-Down Economics
 slug: trickle-down-economics
-tags: games geek
+tags: games geek en
+original: briciolage
 ---
-Ho fatto un minuscolo videogioco, Trickle-Down Economics, per la game jam anticapitalista #GamesTransformed.
+I made a tiny videogame, Trickle-Down Economics, for the anticapitalist game jam #GamesTransformed.
 
-Coerentemente con l'ideologia individualista del thatcherismo che viene celebrata nel gioco, è un progetto solista: ho fatto tutto io, anche la musichetta scema.
+Consistently with the individualistic ideology of Thatcherism celebrated in the game, it's a solo project: I did everything on my own, including the silly music.
 
 {% include itch.html id="7979167" url="https://maurovanetti.itch.io/tde" color="010430" orientation="portrait" %}

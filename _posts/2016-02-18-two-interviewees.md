@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Two Interviewees (Due Colloqui di Lavoro)
+title: Two Interviewees
 slug: two-interviewees
-tags: games pol geek
+tags: games pol geek en
+original: two-interviewees
 ---
 
-Nel gennaio 2016 ho fatto un giochino narrativo durante il corso di Narrative Game Design tenuto dai [We Are Müesli](http://wearemuesli.it/) a Bologna. All'interno di quel corso infatti, si è tenuta una piccola game jam dove sono stati prodotti nel giro di un solo giorno ben quattro giochi. Il tema della mini jam era *Simultaneous*, simultaneo. L'idea su cui ho lavorato è quella di due colloqui simultanei e identici nelle domande e nelle risposte, ma svolti da due personaggi che hanno una importante differenza: uno è un uomo e l'altra è una donna.
+In January 2016 I made a narrative game, Two Interviewees, during the Narrative Game Design course held by [We Are Müesli](http://wearemuesli.it/) in Bologna.
+
+Within that course, there was a small game jam where four games were made in a single day. The theme of the mini jam was *Simultaneous*. The idea I worked on is that of two simultaneous job interviews, identical in questions and answers, given by two characters with a key difference: one is a man and the other is a woman.
 
 {% include itch.html widget="https://itch.io/embed/54279?linkback=true&amp;border_width=4&amp;bg_color=0c16a6&amp;fg_color=ffffff&amp;link_color=e08f00&amp;border_color=c17000" url="https://maurovanetti.itch.io/2i" %}
 
-Il gioco ci è sembrato interessante e così mi sono messo al lavoro nelle settimane successive per farlo uscire in una forma migliore. Ho ricevuto degli aiuti preziosissimi dall'illustratore Emanuele Klemp (la prima versione era disegnata da me con GIMP, vi lascio immaginare i risultati), da Tania Ziegler e Phoebe Revolta che mi hanno corretto la traduzione in inglese, da @figuredisfondo che mi ha dato idee eccellenti e ha fatto un test approfondito.
+The game looked interesting, so I put myself to work in the following weeks to make it publishable in a better format. I received precious help from the illustrator Emanuele Klemp (the first version was drawn by me with GIMP, I let you imagine the results), from Tania Ziegler and Phoebe Revolta who corrected the English translation, from @figuredisfondo who gave me excellent ideas and undertook a thorough test.
 
-Il 14 febbraio l'ho fatto uscire [su Itch.io](https://maurovanetti.itch.io/2i) e [sul Play Store](https://play.google.com/store/apps/details?id=com.rossonerd.twointerviewees) per Android. Con mia sorpresa, sta andando benissimo, a un certo punto è stato anche nella Top Ten dei giochi più popolari di Itch.io; alcuni generosi mi hanno anche fatto delle donazioni che sto usando per promuovere ulteriormente il gioco. Ho ricevuto alcune recensioni davvero lusinghiere e francamente un po' eccessive per un giochetto così breve e semplice.
+On February 14th I released it [on Itch.io](https://maurovanetti.itch.io/2i) and [on the Play Store](https://play.google.com/store/apps/details?id=com.rossonerd.twointerviewees) for Android. To my surprise, it's going very well, at one stage it was even in the Top Ten on itch.io; some generous people have even made donations that I'm using to further promote the game. I received some really flattering reviews, frankly a bit too much for such a short and simple game.
 
-Si tratta naturalmente di un gioco contro il sessismo, penso che sia proprio toccato delle corde importanti in un modo originale ad aver determinato un po' di interesse verso Two Interviewees. Se vi va, dateci un'occhiata e fatemi sapere cosa ve ne pare!
+It's an obviously anti-sexist game, I think it was actually how it touched a chord in an unusual way that has generated some interest in Two Interviewees. Why don't you take a look and let me know what you think?
