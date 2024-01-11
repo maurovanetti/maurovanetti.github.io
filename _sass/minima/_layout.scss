@@ -248,10 +248,15 @@
 
   >.translated-post {
     margin-top: -$spacing-unit;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: 50px;
+    margin-right: 50px;
     border-radius: 0 0 5px 5px;
     border: 0;
+
+    @include media-query($on-laptop) {
+      margin-left: 1em;
+      margin-right: 1em;
+    }
   }
 
   >.post:nth-child(7n + 2) {
