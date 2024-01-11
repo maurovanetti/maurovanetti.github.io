@@ -1,43 +1,48 @@
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {% assign has_comments = false %}
 {% for comment in site.comments %}
-    {% if comment.post == page.slug %}
-        {% assign has_comments = true %}        
-    {% endif %}
+  {% if comment.post == page.slug %}
+    {% assign has_comments = true %}
+  {% endif %}
 {% endfor %}
 {% if has_comments or page.comments != false %}
-<div class="comment-list">
+  <div class="comment-list">
     {% if has_comments %}
-        <h2>Commenti dei visitatori</h2>
-        {% for comment in site.comments %}
-            {% if comment.post == page.slug %}
-                {% if comment.author == "Mauro Vanetti" %}
-                    {% assign author_url = "https://maurovanetti.info/" %}
-                    {% assign comment_class = "comment own-comment" %}
+      <h2>Commenti dei visitatori</h2>
+      {% for comment in site.comments %}
+        {% if comment.post == page.slug %}
+          {% if comment.author == "Mauro Vanetti" %}
+            {% assign author_url = "https://maurovanetti.info/" %}
+            {% assign comment_class = "comment own-comment" %}
+          {% else %}
+            {% assign author_url = comment.author_url %}
+            {% assign comment_class = "comment reader-comment" %}
+          {% endif %}
+          <div class="{{ comment_class }}">
+            <h3 class="comment-title">{{ comment.title }}</h3>
+            <p class="comment-meta">
+              <strong>
+                {% if comment.author_url %}
+                  <a href="{{ author_url }}">{{ comment.author }}</a>
                 {% else %}
-                    {% assign author_url = comment.author_url %}
-                    {% assign comment_class = "comment reader-comment" %}
+                  {{ comment.author }}
                 {% endif %}
-            <div class="{{ comment_class }}">
-                <h3 class="comment-title">{{ comment.title }}</h3>
-                <p class="comment-meta">
-                    <strong>
-                        {% if comment.author_url %}
-                            <a href="{{ author_url }}">{{ comment.author }}</a>
-                        {% else %}
-                            {{ comment.author }}
-                        {% endif %}
-                    </strong>
-                    • {{ comment.date | date: date_format }}
-                </p>
-                <p class="comment-content">{{ comment.content | markdownify }}</p>
-            </div>
-            {% endif %}
-        {% endfor %}    
+              </strong>
+              • {{ comment.date | date: date_format }}
+            </p>
+            <p class="comment-content">{{ comment.content | markdownify }}</p>
+          </div>
+        {% endif %}
+      {% endfor %}
     {% endif %}
     {% if page.comments != false %}
-        <div><a href="mailto:posta@maurovanetti.info?subject={{ page.title | uri_escape }}">Lascia un commento</a></div>
-        <div><small>I commenti più interessanti saranno <a href="/about.html#una-nota-sui-commenti">preservati sul sito</a>.</small></div>
+      <div>
+        <a href="mailto:posta@maurovanetti.info?subject={{ page.title | uri_escape }}">Lascia un commento</a>
+      </div>
+      <div>
+        <small>I commenti più interessanti saranno
+          <a href="/about.html#una-nota-sui-commenti">preservati sul sito</a>.</small>
+      </div>
     {% endif %}
-</div>
+  </div>
 {% endif %}

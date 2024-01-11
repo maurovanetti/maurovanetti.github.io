@@ -38,7 +38,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -82,17 +82,17 @@
       padding-top: 10px;
       text-align: center;
 
-      > svg {
+      >svg {
         fill: $grey-color-dark;
       }
     }
 
-    input ~ .trigger {
+    input~.trigger {
       clear: both;
       display: none;
     }
 
-    input:checked ~ .trigger {
+    input:checked~.trigger {
       display: block;
       padding-bottom: 5px;
     }
@@ -104,6 +104,7 @@
       &:not(:last-child) {
         margin-right: 0;
       }
+
       margin-left: 20px;
     }
   }
@@ -145,19 +146,19 @@
 
 .footer-col-1 {
   width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-  width:         calc(25% - (#{$spacing-unit} / 2));
+  width: calc(25% - (#{$spacing-unit} / 2));
   text-align: right;
 }
 
 .footer-col-2 {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-  width:         calc(50% - (#{$spacing-unit} / 2));  
+  width: calc(50% - (#{$spacing-unit} / 2));
   text-align: center;
 }
 
 .footer-col-3 {
   width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-  width:         calc(25% - (#{$spacing-unit} / 2));
+  width: calc(25% - (#{$spacing-unit} / 2));
   text-align: left;
 }
 
@@ -166,16 +167,17 @@
 }
 
 @include media-query($on-laptop) {
+
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: calc(50% - (#{$spacing-unit} / 2));
     text-align: center;
   }
 
   .footer-col-3 {
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
     text-align: center;
   }
 }
@@ -184,7 +186,7 @@
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
 
@@ -210,7 +212,8 @@
   margin-left: 0;
   list-style: none;
 
-  > .post, .translated-post {
+  >.post,
+  .translated-post {
     height: $preview-height;
     border: solid $grey-color-light;
     background-color: $foreground-color;
@@ -218,7 +221,7 @@
     padding: $spacing-unit;
     margin-bottom: $spacing-unit;
 
-    > .post-excerpt {
+    >.post-excerpt {
       float: right;
       height: $preview-height;
       width: 40%;
@@ -232,7 +235,7 @@
       }
     }
 
-    > h3 {
+    >h3 {
       height: $preview-height - $small-font-size;
       overflow-y: clip;
       width: 50%;
@@ -240,18 +243,18 @@
       @include media-query($on-laptop) {
         width: initial;
       }
-    }    
+    }
   }
 
-  > .translated-post {
+  >.translated-post {
     margin-top: -$spacing-unit;
     margin-left: 1em;
     margin-right: 1em;
     border-radius: 0 0 5px 5px;
     border: 0;
   }
-  
-  > .post:nth-child(7n + 2) {
+
+  >.post:nth-child(7n + 2) {
     margin-left: -15px;
     margin-right: 15px;
 
@@ -261,7 +264,7 @@
     }
   }
 
-  > .post:nth-child(7n + 3) {
+  >.post:nth-child(7n + 3) {
     margin-left: 5px;
     margin-right: -5px;
 
@@ -271,7 +274,7 @@
     }
   }
 
-  > .post:nth-child(7n + 4) {
+  >.post:nth-child(7n + 4) {
     margin-left: -5px;
     margin-right: 5px;
 
@@ -281,7 +284,7 @@
     }
   }
 
-  > .post:nth-child(7n + 6) {
+  >.post:nth-child(7n + 6) {
     margin-left: 20px;
     margin-right: -20px;
 
@@ -291,7 +294,7 @@
     }
   }
 
-  > .post:nth-child(7n) {
+  >.post:nth-child(7n) {
     margin-left: -10px;
     margin-right: 10px;
 
@@ -300,10 +303,11 @@
       margin-right: initial;
     }
   }
-  
+
 }
 
-.post-meta, .comment-meta {
+.post-meta,
+.comment-meta {
   font-size: $small-font-size;
   color: $grey-color;
 }
@@ -332,7 +336,9 @@
   }
 }
 
-.post-content, .home-content, .comment-content {
+.post-content,
+.home-content,
+.comment-content {
   margin-bottom: $spacing-unit;
   text-align: justify;
 
@@ -360,13 +366,15 @@
     }
   }
 
-  p, ul, ol {
+  p,
+  ul,
+  ol {
     margin-bottom: 1em;
   }
 
   hr {
     border: dashed 2px;
-    margin:  2em -5%;
+    margin: 2em -5%;
   }
 }
 
@@ -417,19 +425,23 @@ figure {
 
 .embedder {
   width: 100%;
-  padding: 0; /* reset */
+  padding: 0;
+  /* reset */
   margin-bottom: $spacing-unit;
 }
 
-.embedder > div {
+.embedder>div {
   height: 0;
-  padding: 0 0 56.25%; /* 16:9 default aspect ratio */
-  position: relative;  
-  margin: 0; /* reset */
-  width: auto; /* reset */
+  padding: 0 0 56.25%;
+  /* 16:9 default aspect ratio */
+  position: relative;
+  margin: 0;
+  /* reset */
+  width: auto;
+  /* reset */
 }
 
-.embedder > div > iframe {
+.embedder>div>iframe {
   position: absolute;
   top: 0;
   left: 0;

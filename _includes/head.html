@@ -3,8 +3,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link rel="preload" href="{{ "/assets/fonts/averia-libre-v16-latin-regular.woff2" | relative_url }}" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="{{ "/assets/fonts/averia-libre-v16-latin-700italic.woff2" | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link
+    rel="preload"
+    href="{{ "/assets/fonts/averia-libre-v16-latin-regular.woff2" | relative_url }}"
+    as="font"
+    type="font/woff2"
+    crossorigin>
+  <link
+    rel="preload"
+    href="{{ "/assets/fonts/averia-libre-v16-latin-700italic.woff2" | relative_url }}"
+    as="font"
+    type="font/woff2"
+    crossorigin>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}?v=20231219T000000">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

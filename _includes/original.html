@@ -1,11 +1,18 @@
-{%- if include.original -%}{%- for post in site.posts -%}
+{%- if include.original -%}
+  {%- for post in site.posts -%}
     {%- if post.ref == include.original -%}
-        {%- if post.tags contains "en" -%}
-            {%- assign post-lang = "en" -%}
-        {%- else -%}            
-            {%- assign post-lang = "it" -%}
-        {%- endif -%}
-        <br>&#8672; <a href="{{ post.url | relative_url }}" rel="alternate" hreflang="{{ post-lang }}">{{ post.title }}</a> {{ post-lang }}
-        {%- break -%}
+      {%- if post.tags contains "en" -%}
+        {%- assign post-lang = "en" -%}
+      {%- else -%}
+        {%- assign post-lang = "it" -%}
+      {%- endif -%}
+      <br>&#8672;
+      <a
+        href="{{ post.url | relative_url }}"
+        rel="alternate"
+        hreflang="{{ post-lang }}">{{ post.title }}</a>
+      {{ post-lang }}
+      {%- break -%}
     {%- endif -%}
-{%- endfor -%}{%- endif -%}
+  {%- endfor -%}
+{%- endif -%}

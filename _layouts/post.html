@@ -1,22 +1,33 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- if page.author -%}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-        • 
+        <span
+          itemprop="author"
+          itemscope
+          itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">{{ page.author }}</span>
+        </span>
+        •
       {%- endif -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      <time
+        class="dt-published"
+        datetime="{{ page.date | date_to_xmlschema }}"
+        itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
-      </time>      
+      </time>
       {% include inline-tag-list.html list=page %}
       {% include original.html original=page.original %}
-      {% include translations.html ref=page.ref %}      
+      {% include translations.html ref=page.ref %}
     </p>
   </header>
 
@@ -24,7 +35,10 @@ layout: default
     {{ content }}
   </div>
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <a
+    class="u-url"
+    href="{{ page.url | relative_url }}"
+    hidden></a>
 </article>
 
 {%- include comments.html -%}

@@ -2,7 +2,7 @@
 layout: default
 ---
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-<div class="home">  
+<div class="home">
 
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -25,8 +25,10 @@ layout: default
                 <div class="post-excerpt">
                   {{ post.excerpt }}
                 </div>
-              {%- endif -%}          
-              <span class="post-meta"><strong>{{ post.date | date: date_format }}</strong> {% include inline-tag-list.html list=post %}</span>
+              {%- endif -%}
+              <span class="post-meta">
+                <strong>{{ post.date | date: date_format }}</strong>
+                {% include inline-tag-list.html list=post %}</span>
               <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">
                   {{ post.title | escape }}
@@ -42,14 +44,16 @@ layout: default
                         <div class="post-excerpt">
                           {{ translation.excerpt }}
                         </div>
-                      {%- endif -%}          
-                      <span class="post-meta"><strong>traduzione</strong> {% include inline-tag-list.html list=translation %}</span>
+                      {%- endif -%}
+                      <span class="post-meta">
+                        <strong>traduzione</strong>
+                        {% include inline-tag-list.html list=translation %}</span>
                       <h3>
                         <a class="post-link" href="{{ translation.url | relative_url }}">
                           {{ translation.title | escape }}
                         </a>
                       </h3>
-                    </div>                       
+                    </div>
                   {%- endif -%}
                 {%- endif -%}
               {%- endfor -%}

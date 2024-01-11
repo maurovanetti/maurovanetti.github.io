@@ -1,6 +1,13 @@
-{%- if page.comments != false and jekyll.environment == "production" -%}    
-    <script>talkyardServerUrl='{{ site.talkyard_server_url }}';</script>
-    <script async defer src="{{ site.talkyard_script_url }}"></script>
-    <div class="talkyard-comments" data-discussion-id="{{ page.discussion_id }}" style="margin-top: 45px;">    
-    </div>
+{%- if page.comments != false and jekyll.environment == "production" -%}
+  <script>
+    talkyardServerUrl='{{ site.talkyard_server_url }}';
+  </script>
+  <script
+    async
+    defer
+    src="{{ site.talkyard_script_url }}"></script>
+  <div
+    class="talkyard-comments"
+    data-discussion-id="{{ page.discussion_id }}"
+    style="margin-top: 45px;"></div>
 {% endif %}

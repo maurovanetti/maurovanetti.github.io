@@ -1,24 +1,24 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
 
-<div class="comment-list">
-  <small style="font-family: 'Helvetica Neue', arial, sans-serif;">
-    I commenti più interessanti verranno preservati nel sito. Aggiungine qui:
-  </small>
-  <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function () {
+  <div class="comment-list">
+    <small style="font-family: 'Helvetica Neue', arial, sans-serif;">
+      I commenti più interessanti verranno preservati nel sito. Aggiungine qui:
+    </small>
+    <div id="disqus_thread"></div>
+    <script>
+          var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
       this.page.identifier = '{{ page.url | absolute_url }}';
-    };
+          };
 
-    (function() {
+          (function() {
       var d = document, s = d.createElement('script');
 
       s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
 
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
-    })();
-  </script>    
-</div>
+          })();
+    </script>
+  </div>
 {%- endif -%}

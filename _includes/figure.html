@@ -1,8 +1,8 @@
 <figure class="{{ include.css }}">
-    <a href="/assets/img/{{ include.file }}">
-    <img src="/assets/img/{{ include.file }}" alt="{{ include.alt | default:include.caption }}"/>
-    </a>
-    {% if include.caption %}
-        <figcaption>{{ include.caption | markdownify }}</figcaption>
-    {% endif %}
- </figure>
+  <a href="/assets/img/{{ include.file }}">
+    <img src="/assets/img/{{ include.file }}" alt="{{ include.alt | default:include.caption }}" />
+  </a>
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify }}</figcaption>
+  {% endif %}
+</figure>
