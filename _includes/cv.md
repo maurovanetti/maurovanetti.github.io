@@ -44,28 +44,26 @@
 
 *Linguaggi, ambienti, framework e strumenti*
 
-- Più usati: Dart, C#, Python, Java, Django, Django CMS, SQL, HTML5, JavaScript, jQuery, Vue.js, Bootstrap, Git
-- Altri: C, C++, J2EE, JSP, Spring, Hibernate, Ant, JavaCC, PHP, Node.js, VBScript, ASP, ASP.NET, SVN, ClearCase, Maven
+- Più usati: Dart, Flutter, C#, Python, SQL, HTML5, JavaScript, TypeScript, Node.js, Git
+- Altri: C, C++, Java, J2EE, JSP, Spring, Hibernate, Ant, JavaCC, PHP, Bootstrap, Django, Django CMS, jQuery, Vue.js, VBScript, ASP, ASP.NET, SVN, ClearCase, Maven
 
 *Motori, ambienti e strumenti per lo sviluppo di videogiochi*
 
-- Unity, Unreal Engine, Fungus, Ink, Construct 3, Flame, Ren'Py, GameMaker, Phaser
-
-*Piattaforme e framework per dispositivi mobili*
-
-- Android, Flutter, Cordova, Onsen UI
+- Più usati: Unity, Fungus, Ink, Construct 3, Flame
+- Altri: Unreal Engine, Ren'Py, Godot, GameMaker, Phaser
 
 *Metodologie*
 
-- Scrum, Kanban, TDD
+- Scrum, Kanban, TDD, CI-CD
 
 ## Impiego attuale
 
 Programmatore freelance ed esperto informatico a partita IVA. Progetti principali in corso negli ultimi mesi:
 
-- *2023* -- Progettazione e sviluppo con Flutter/Dart del videogioco per smartphone [*Guidi Tu*](https://github.com/maurovanetti/guidi-tu), volto al contrasto della guida in stato d'ebbrezza, per Cooperativa Alice (Alba, CN).
-- *Dal 2020* -- Docente a contratto alla Nuova Accademia di Belle Arti (Milano) per i corsi di Game Design I, Game Design II, Game Production Lab, Metodologie della Progettazione e della Ricerca, Interactive Storytelling per Videogiochi, Game Development I.
-- *Dal 2019* -- Sviluppo con Flutter/Dart, Monaca/Vue.js di una serie di app multipiattaforma per smartphone rivolte al mondo universitario per In4matic (Pavia).
+- *Dal 2023* -- Sviluppo per Magari (Fidenza, PR) dell'intelligenza artificiale per l'adattamento digitale in Unity di un gioco da tavolo, non ancora pubblicato.
+- *Dal 2023* -- Progettazione e sviluppo con Flutter/Dart del videogioco per smartphone [*Guidi Tu*](https://github.com/maurovanetti/guidi-tu), volto al contrasto della guida in stato d'ebbrezza, per Cooperativa Alice (Alba, CN).
+- *Dal 2020* -- Docente a contratto alla Nuova Accademia di Belle Arti (Milano) per i corsi di Game Design I, Game Design II, Game Production Lab, Metodologie della Progettazione e della Ricerca, Interactive Storytelling per Videogiochi, Game Development I, Ambienti Virtuali.
+- *Dal 2019* -- Sviluppo per In4matic (Pavia) di una serie di app multipiattaforma per smartphone e di un'app desktop rivolte al mondo universitario usando Flutter/Dart (e in precedenza Monaca/Vue.js), nonché di applicazioni backend basate su Temporal usando TypeScript su Node.js.
 
 
 ## Esperienze lavorative precedenti
@@ -165,6 +163,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 *Come autore:*
 - [*Trickle-Down Economics*](https://maurovanetti.itch.io/tde), 2023 (videogioco minimo).
+- [*2•5D addon for Construct 3*](https://maurovanetti.itch.io/25d4c3), 2023 (strumento di sviluppo per videogiochi).
 - [*Ink-Fungus Gateway*](https://maurovanetti.itch.io/ifg), 2020 (strumento di sviluppo per videogiochi).
 - [*Little Antifa Novel*](https://maurovanetti.itch.io/lan), 2017 (videogioco).
 - [*Two Interviewees*](https://maurovanetti.itch.io/2i) [*Due Colloqui di Lavoro*], 2016 (videogioco).
@@ -202,7 +201,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 ## Altre esperienze ed eventi ludici
 - *2023* -- Ideatore della performance di improvvisazione [*Videogiochi Improvvisati*](https://improvg.itch.io/) con Jacopo Rovida, presentata a *Play in the City* (Modena).
-- *2022-2023* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
+- *2022-2024* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
 - *2022* -- Fondatore e organizzatore del [nodo di Pavia della Global Game Jam](https://globalgamejam.org/2022/jam-sites/global-game-jam-pavia).
 - *2021* -- Selezionato per l’esposizione di videogiochi indipendenti testuali *WordPlay* (Toronto) con il videogioco *Divide Et Impera*.
 - *2018-2019* -- Fondatore e organizzatore delle prime due edizioni di *Videogiocanda* (Pavia), evento sul gioco digitale all’interno di *Giocanda*, festival del gioco di strada.
