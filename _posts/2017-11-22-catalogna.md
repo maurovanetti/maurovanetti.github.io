@@ -4,10 +4,14 @@ title: Intervista sulla Catalogna
 tags: pol
 ---
 
+Questa intervista mi è stata fatta nel 2017 da un gruppo di attivisti italiani che si occupano di solidarietà internazionalista con la Catalogna, che avevano costituito un gruppo a Barcellona chiamato **Barnaut**. In quel periodo avevo seguito con interesse la lotta per l'indipendenza della Catalogna e la crisi politica che si era sviluppata a partire dalla repressione del referendum indipendentista, difendendo una prospettiva di difesa del diritto di autodeterminazione dei popoli in senso rivoluzionario e socialista.
+
+***
+
 Sono Mauro Vanetti, ho 38 anni, vivo a Pavia, di mestiere faccio software e milito da sempre nella Tendenza Marxista Internazionale, che in Italia da alcuni anni ha costituito il movimento politico Sinistra Classe Rivoluzione.
 
 
-1) Abbiamo visto che hai guardato il processo di indipendenza catalano. Per quale motivo lo hai trovato interessante?
+1) *Abbiamo visto che hai guardato il processo di indipendenza catalano. Per quale motivo lo hai trovato interessante?*
 
 Conosco piuttosto bene la Catalogna e la Spagna e mi hanno sempre affascinato le storie della Guerra Civile, della Rivoluzione del '36 in Catalogna, delle lotte che hanno portato alla caduta del franchismo. La persona che considero il mio maestro politico qui a Pavia è un trotskista basco che ha partecipato da ragazzo in clandestinità alle lotte rivoluzionarie a Vitoria-Gasteiz negli anni Settanta.
 
@@ -16,7 +20,7 @@ Tuttavia, il motivo essenziale non è individuale o sentimentale ma politico; in
 Ciò che sta fallendo in Spagna è il regime del '78. Chi come me odia quell'assetto istituzionale, nipote bastardo della sconfitta degli antifascisti nella Guerra Civile, non può che guardare con interesse e affetto a ogni sfida lanciata dai movimenti di massa a quello status quo.
 
 
-2) come si vede il procés dell'Italia? Quali pensi siano i motivi per il quale c'è questa lettura della realtà catalana?
+2) *Come si vede il procés dell'Italia? Quali pensi siano i motivi per cui c'è questa lettura della realtà catalana?*
 
 Mi ha avvilito il basso livello di comprensione degli eventi catalani che ho riscontrato in Italia, paradossalmente inferiore tra i miiltanti di sinistra che tra la gente comune in generale. Molti vedono la questione solo tramite la lente deformante del paragone con la Lega Nord; da lombardo, tuttavia, mi sembra evidente quanto sia fuorviante questa lettura: non esiste un sentimento nazionale lombardo (qualcosa del genere c'è forse in Veneto, ma in termini molto diversi da quelli del nazionalismo catalano), il leghismo è sempre stato escludente e razzista, l'indipendenza della Padania è sempre stata una mascherata a cui non credeva seriamente nessuno, il segno politico del leghismo è sempre stato in modo inequivoco reazionario, volto a promuovere su scala nazionale un liberismo spinto combinato con politiche razziste. Ancora oggi Salvini, che pure ha abbandonato quasi ogni retorica "nordista", quando parla di autonomia fiscale (cosa che naturalmente fanno anche i catalanisti), lo fa nell'ottica di avere tasse più basse per i ricchi e le imprese, come si vede nella proposta di destra iper-thatcheriana della flat tax; viceversa, in Catalogna le grandi imprese si lamentano perché la tendenza regionale è di alzare le tasse rispetto a quanto stabilito da Madrid per finanziare i servizi pubblici. Naturalmente le politiche di Mas in passato e oggi del PDeCAT, anche su questo tema, hanno qualche somiglianza con il leghismo, ma è piuttosto evidente che la questione è molto più complessa.
 
@@ -26,15 +30,16 @@ Il primo è l'assenza di una grossa questione nazionale in Italia: nonostante al
 Il secondo, temo più rilevante, è la demoralizzazione esistente a sinistra. Siamo talmente abituati da alcuni anni a perdere e spesso a perdere senza combattere che l'idea che in uno scontro politico in atto ci sia qualcuno da sostenere e una possibilità di vittoria ci dà quasi fastidio, ci fa sentire inadeguati perché mette in luce il nostro ritardo, forse ci fa addirittura un po' invidia. Quindi prevalgono l'ironia sprezzante, le battutine al posto dell'analisi politica, il pessimismo come una medaglia da portare («Mai una gioia!») che dimostra quanto siamo adulti e post-moderni e liberi dalle illusioni ingenue dei militanti appassionati. Combattere questo stato d'animo e sostituirlo con una sana miscela di entusiasmo rivoluzionario e razionalità analtica mi sembra un obiettivo in sé se vogliamo uscire dal pantano italiano.
 
 
-3) Come viene trattato dai media e dal movimento?
+3) *Come viene trattato dai media e dal movimento?*
 
-I media mainstream sono passati da una prima lunga fase in cui la faccenda era trattata come folkloristica a una in cui è stato tirato fuori l'armamentario giornalistico già usato per il M5S, per il referendum greco, per la Brexit e per altri fenomeni politici inattesi: quello della tragicommedia, dell'irrazionalità popolare eccetera. C'è stata qualche rara eccezione (stranamente, Mentana) ma tutto era dipinto con grande scetticismo. Quando, un po' dopo il referendum, è risultato chiaro che il processo non era né una pagliacciata né un fuoco di paglia, hanno iniziato a prenderlo sul serio e quindi a contrastarlo prendendo di peso le argomentazioni della destra spagnolista. Questo punto di vista è di fatto assunto anche dai giornali teoricamente progressisti (come del resto sta avvenendo con qualche pudore in più anche in Spagna): un esempio è la Repubblica che inaugura il suo nuovo formato con un'intervista a Rajoy in persona che viene presentato come un saggio statista che sa come sconfiggere gli scriteriati indipendentisti.\
+I media mainstream sono passati da una prima lunga fase in cui la faccenda era trattata come folkloristica a una in cui è stato tirato fuori l'armamentario giornalistico già usato per il M5S, per il referendum greco, per la Brexit e per altri fenomeni politici inattesi: quello della tragicommedia, dell'irrazionalità popolare eccetera. C'è stata qualche rara eccezione (stranamente, Mentana) ma tutto era dipinto con grande scetticismo. Quando, un po' dopo il referendum, è risultato chiaro che il processo non era né una pagliacciata né un fuoco di paglia, hanno iniziato a prenderlo sul serio e quindi a contrastarlo prendendo di peso le argomentazioni della destra spagnolista. Questo punto di vista è di fatto assunto anche dai giornali teoricamente progressisti (come del resto sta avvenendo con qualche pudore in più anche in Spagna): un esempio è la Repubblica che inaugura il suo nuovo formato con un'intervista a Rajoy in persona che viene presentato come un saggio statista che sa come sconfiggere gli scriteriati indipendentisti.
+
 I media di movimento e della sinistra militante mi sembra che siano stati più attenti, ma con molte eccezioni e cadute di stile. Ho letto articoli davvero aberranti anche su giornali nettamente a sinistra, dove si invocava l'intervento dell'UE per fermare la Catalogna, mentre le prese di posizione della sinistra riformista o dei partiti e gruppi pro-Tsipras (fuori tempo massimo) in genere ricalcavano la debole e ambigua linea di Ada Colau e di Pablo Iglesias, sottovalutando tra l'altro le feconde contraddizioni che attraversano la sezione catalana di Podemos.
 
 Ho anche notato un'improvvisa popolarità del federalismo repubblicano, che mi starebbe anche bene se non fosse usato strumentalmente per dire «Guarda come sono di sinistra: sono per la Repubblica Federale Spagnola» ma di fatto accodarsi alla posizione del PP. Nella realtà sappiamo bene che la via più diretta per arrivare a una repubblica federale iberica è proprio la rottura del regime del '78 e che si inizi a formare una repubblica catalana. Del resto sarebbe semmai più importante chiedersi che tipo di repubblica vogliamo: una repubblica borghese o una repubblica socialista? Queste sono cose che in Catalogna sono discusse non in astratto.
 
 
-4) pensi che venga considerato in maniera differente rispetto al caso basco? Secondo te perchè?
+4) *Pensi che venga considerato in maniera differente rispetto al caso basco? Secondo te perchè?*
 
 Non so se capiti ovunque ma nella sinistra italiana si va a mode. La sinistra abertzale basca faceva attentati e organizzava azioni di guerriglia urbana in un periodo in cui queste tattiche erano popolari nell'estrema sinistra italiana, e questo ha creato un legame sentimentale piuttosto acritico che è rimasto nell'aria. Spesso si fanno distinzioni tra un movimento straniero e un altro basate essenzialmente su criteri prepolitici, sul fascino di questo o quel condottiero o su qualche altro fattore estetico. Devo dire che una certa responsabilità su questo la hanno le organizzazioni politiche più che i singoli, che non aiutano ad alzare il livello politico del dibattito internazionalista.
 
@@ -43,7 +48,7 @@ Quando una lotta estera viene mitizzata, è anche impossibile avanzare critiche 
 Il contraltare di questo atteggiamento è che alcune lotte invece vengono misteriosamente ignorate o screditate, quando situazioni del tutto analoghe in altri contesti subiscono un trattamento del tutto diverso. Credo che su questo sarebbe necessario uno sforzo sia di coerenza razionale sia di empatia maggiore verso chi vive dentro una lotta, che non può aspettare che la propria situazione diventi la moda del momento per ricevere la nostra solidarietà militante.
 
 
-5) Cosa pensi si possa fare per chiarire le parti piú criticate?
+5) *Cosa pensi si possa fare per chiarire le parti piú criticate?*
 
 Discutere, informare e portare queste vicende dentro la nostra militanza quotidiana.
 
@@ -53,10 +58,10 @@ Anche cominciare a spiegare che ci sono prigionieri politici in Spagna, far vede
 
 Poi, certo, tutto cambierebbe se in qualche modo gli effetti delle lotte in Catalogna inizassero a riverberare qui. Questo avviene tanto più quanto più la lotta esce dalle dinamiche puramente nazionali e istituzionali per affrontare i nodi dell'economia, del lavoro, dell'estensione del processo di trasformazione al di fuori dei confini della Catalogna. Uno sciopero sarà sempre più interessante di una proclamazione di indipendenza nel Parlament; una riforma sociale strappata grazie al tumulto politico portato da questa situazione (guardatevi il picco di ore di sciopero che si è avuto in questi mesi rispetto agli anni precedenti: non è forse lotta di classe?) sarà sempre più interessante di un decreto che cambia la bandiera; forme di potere popolare dal basso come i Comitati in Difesa della Repubblica saranno sempre più interessanti delle paludate cerimonie di Puigdemont o delle sue peripezie in Belgio.
 
-Chiaramente un passaggio essenziale è stringere rapporti con le forze internazionaliste che agiscono in Catalogna. Bisogna far conoscere la CUP e il dibattito dentro Podem. Io sostengo quelli di Lucha de Clases in Spagna, che in Catalogna hanno lanciato la rivista Revolució. Loro dicono che si deve formare una repubblica socialista catalana, unico modo per combattere la fuga di capitali e il boicottaggio delle borghesie catalana, spagnola ed europea; e affermano che la Catalogna può diventare la scintilla per la caduta del regime monarchico e una trasformazione sociale e politica rivoluzionaria che investa tutta la Spagna trasmettendo le sue onde d'urto all'intera Europa.
+Chiaramente un passaggio essenziale è stringere rapporti con le forze internazionaliste che agiscono in Catalogna. Bisogna far conoscere la CUP e il dibattito dentro Podem. Io sostengo quelli di Lucha de Clases in Spagna, che in Catalogna hanno lanciato la rivista *Revolució*. Loro dicono che si deve formare una repubblica socialista catalana, unico modo per combattere la fuga di capitali e il boicottaggio delle borghesie catalana, spagnola ed europea; e affermano che la Catalogna può diventare la scintilla per la caduta del regime monarchico e una trasformazione sociale e politica rivoluzionaria che investa tutta la Spagna trasmettendo le sue onde d'urto all'intera Europa.
 
 
-6) In questi giorni abbiamo visto il referendum in lombardia e in veneto, che non ha nulla a che vedere con il proces catalano, ma che ha portato molti a notarne alcune piccole similitudini...pensi che ci saranno ripercussioni politiche "ispirate" o influenzate dal procés in italia?
+6) *In questi giorni abbiamo visto il referendum in Lombardia e in Veneto, che non ha nulla a che vedere con il procés catalano, ma che ha portato molti a notarne alcune piccole similitudini… Pensi che ci saranno ripercussioni politiche "ispirate" o influenzate dal procés in Italia?*
 
 Salvini in persona a un certo punto ha dovuto dire chiaramente che i fenomeni in questione non sono legati tra loro. Nell'estrema destra la repubblica di Catalogna è un concetto ovviamente impopolare; se la situazione precipitasse credo che CasaPound e soprattutto Forza Nuova che ha forti legami con il neofascismo spagnolo non esiterebbero a costituire gruppi di volontari armati da inviare sul posto. Tra i sovranisti di destra (Bagnai, Borghi ecc.) c'è stato un dibattito teso con una spaccatura, che Salvini non vuole si ripeta. La prevalenza schiacciante di antifascisti e antirazzisti nel processo catalano sta gradualmente orientando il grosso di quell'area.
 
