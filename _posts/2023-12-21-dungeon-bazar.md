@@ -2,6 +2,7 @@
 layout: post
 title: "Review: Dungeon Bazar"
 tags: games en
+ref: dungeon-bazar
 ---
 
 Review based on the Rules-Play-Culture model.
@@ -37,6 +38,8 @@ The game is a humorous take on the absurd economy of the most typical DnD scenar
 In its own gamey way, this is social critique.
 
 PS: Yes, I got the cards with the defective back side (apparently this does not happen anymore but some of the first boxes produced in 2014 had this annoying problem). I dropped them an email and they provided me immediately with a complete new deck, their apologies and an invitation to visit their office and play with them! I wish all the publishers were so kind when they do a small mistake.
+
+[Page on BoardGameGeek](https://boardgamegeek.com/boardgame/160608/dungeon-bazar)
 
 ***
 

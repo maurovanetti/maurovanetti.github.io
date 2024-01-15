@@ -36,6 +36,8 @@ For some reason, sheep flocks are a recurring theme in board games. Part of its 
 
 But what Shear Panic does best is exploring the concept of a compact, messy, perpetually reconfiguring flock. If you have ever watched a flock of sheep now you understand what they are up to when they keep on swapping places and pushing each other: they are playing this game.
 
+[Page on BoardGameGeek](https://boardgamegeek.com/boardgame/18866/shear-panic)
+
 ***
 
 This review was originally published on my BoardGameGeek profile in 2014. It was re-edited in 2023 to fit the format of the Rules-Play-Culture board game analysis series on this website.

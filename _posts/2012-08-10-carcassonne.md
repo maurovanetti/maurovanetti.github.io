@@ -78,4 +78,4 @@ Il gioco sembra che simuli la costruzione di una zona sparsamente urbanizzata, m
 
 Sebbene la qualità grafica e tattile del gioco sia notevole e - quella sì - abbastanza coerente col tema, queste incongruenze ostacolano l'identificazione del giocatore in un ruolo da recitare all'interno di un mondo simulato, spingendolo piuttosto a considerare tutto l'apparato tematico come pretestuoso e quindi a trattare il gioco come un sistema topologico astratto (un esempio tipico è il tracciamento di strade senza meta e inutilmente contorte: il tema non ci induce a comportarci in un modo simile a ciò che rappresenta). Le numerose espansioni, oltre ad arricchire le topologie possibili fino ai limiti estremi permessi dal sistema a tessere quadrate, aggiungono elementi del mondo feudale (mercanti, conti, bestie, draghi, borgomastri...) che mantengono la stessa arbitrarietà nel loro rapporto con le regole del gioco, ma che danno l'impressione di una coerenza tematica forte per quanto superficiale.
 
-[Scheda su BoardGameGeek](http://boardgamegeek.com/boardgame/822/carcassonne)
+[Scheda su BoardGameGeek](https://boardgamegeek.com/boardgame/822/carcassonne)
