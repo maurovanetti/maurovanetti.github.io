@@ -31,4 +31,4 @@ Nel primo decreto del potere sovietico dopo la Rivoluzione d'Ottobre era scritto
 
 Questo articolo è stato pubblicato su [FalceMartello](https://old.marxismo.net/nord-america/internazionale/nord-america/wikileaks-larmadio-dellimperialismo-trabocca-di-scheletri).
 
-A conferma di quanto scrivevamo io e molti altri nel 2010, Julian Assange, rifugiatosi nell'ambasciata dell'Ecuador a Londra per anni, è stato rapito nel 2019 da agenti del Regno Unito e poi estradato negli USA nel 2021, non certo per le accuse di molestie, che nel frattempo sono cadute nel nulla, ma per aver rivelato i segreti dell'imperialismo statunitense.
+A conferma di quanto scrivevamo io e molti altri nel 2010, Julian Assange, rifugiatosi nell'ambasciata dell'Ecuador a Londra per anni, è stato rapito nel 2019 da agenti del Regno Unito e incarcerato in attesa dell'estradizione negli USA: non certo per le accuse di molestie, che nel frattempo sono cadute nel nulla, ma per aver rivelato i segreti dell'imperialismo statunitense.
