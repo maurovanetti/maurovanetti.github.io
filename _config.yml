@@ -34,6 +34,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Display posts set in the future
+future: true
+
 # Used by Minima theme
 lang: it
 minima:
