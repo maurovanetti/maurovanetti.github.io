@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "«Il sole dell'avvenire»: arrivano i nostri"
-tags: pol
+tags: pol lit
 ---
 «Oggi, anziano e malaticcio, ripeto la stessa frase: la classe operaia deve dirigere tutto.»\
 (Valerio Evangelisti)

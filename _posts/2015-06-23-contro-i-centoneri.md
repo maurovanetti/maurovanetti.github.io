@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contro i centoneri
-tags: pol
+tags: pol lit
 ---
 San Pietroburgo, 1905
 
