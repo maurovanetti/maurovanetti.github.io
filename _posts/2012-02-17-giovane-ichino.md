@@ -3,7 +3,7 @@ layout: post
 title: Le fatiche del giovane Ichino
 tags: pol
 ---
-*ovvero*
+*ovvero*\
 ***Si parva licet componere parvis***
 
 
