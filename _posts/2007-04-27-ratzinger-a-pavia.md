@@ -2,6 +2,7 @@
 layout: post
 title: Papa Ratzinger a Pavia
 tags: pol pv
+slug: ratzinger
 ---
 Anche da un punto di vista ateo e materialista non si può fare a meno di stendere alcune considerazioni in merito ad un evento "di costume" rilevante per il capoluogo della nostra provincia come la visita di Joseph Ratzinger avvenuta il 21 e il 22 aprile. Vorrei soprattutto raccontare da un punto di vista particolare quel week end così come noi Giovani Comunisti l'abbiamo vissuto; non parlerò di Vigevano perché non abbiamo seguito la questione da vicino, ma ritengo che molte osservazioni generali potrebbero essere applicate anche alla parte vigevanese della visita papale.
 
