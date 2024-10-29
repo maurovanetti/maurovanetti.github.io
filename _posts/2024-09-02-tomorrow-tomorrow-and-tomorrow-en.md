@@ -4,7 +4,7 @@ title: '"Tomorrow, Tomorrow, and Tomorrow"'
 tags: lit games en
 original: tomorrow-tomorrow-and-tomorrow
 ---
-"Tomorrow, Tomorrow, and Tomorrow" by **Gabrielle Zevin** is a novel about love, video games, loss and love (in the ambiguous, or rather, extended, meaning "love" has in English).
+"Tomorrow, Tomorrow, and Tomorrow" by **Gabrielle Zevin** is a novel about work, video games, loss and love (in the ambiguous, or rather, extended, meaning "love" has in English).
 
 {% include figure.html file="ttat.jpeg" alt="The beautiful cover of the book" %}
 
