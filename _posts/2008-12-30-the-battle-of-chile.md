@@ -1,6 +1,6 @@
 ---
 layout: post
-title: «The Battle of Chile»
+title: '"The Battle of Chile"'
 slug: chile
 tags: pol media en
 ---

@@ -9,7 +9,7 @@ Recensione basata sul modello Rules-Play-Culture.
 
 **RULES (le regole del gioco)**
 
-Condizione di vittoria: i giocatori sono mercanti che gestiscono un'attività trauffaldina in accordo con il Drago del dungeon (lo chiamano "il Presidente"). Vince il mercante che guadagna di più e soddisfa di più il Presidente Drago.
+Condizione di vittoria: i giocatori sono mercanti che gestiscono un'attività truffaldina in accordo con il Drago del dungeon (lo chiamano "il Presidente"). Vince il mercante che guadagna di più e soddisfa di più il Presidente Drago.
 
 I mercanti vendono armi e altro equipaggiamento agli eroi che entrano nel dungeon in cerca di fama e tesori. Gli eroi sono destinati a morire e a lasciare il loro equipaggiamento nel dungeon. Dopo ogni stagione, i mercanti si precipitano nel dungeon, posizionano nelle sue stanze dei goblin e un orco per rendere la vita più difficile ai prossimi eroi e raccolgono le spoglie degli eroi sconfitti, per rivenderne le attrezzature ai prossimi polli.
 

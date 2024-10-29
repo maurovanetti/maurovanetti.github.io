@@ -5,7 +5,7 @@ slug: trickle-down-economics
 tags: games geek en
 original: briciolage
 ---
-I made a tiny videogame, Trickle-Down Economics, for the anticapitalist game jam #GamesTransformed.
+I made a tiny video game, Trickle-Down Economics, for the anticapitalist game jam #GamesTransformed.
 
 Consistently with the individualistic ideology of Thatcherism celebrated in the game, it's a solo project: I did everything on my own, including the silly music.
 
