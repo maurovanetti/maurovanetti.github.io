@@ -59,13 +59,14 @@
 
 Programmatore freelance ed esperto informatico a partita IVA. Progetti principali in corso negli ultimi mesi:
 
-- *Dal 2023* -- Sviluppo per Magari (Fidenza, PR) dell'intelligenza artificiale per l'adattamento digitale in Unity del gioco da tavolo [*Dungeon Twist*](https://dungeontwist.com/), non ancora pubblicato.
-- *Dal 2023* -- Progettazione e sviluppo con Flutter/Dart del videogioco per smartphone [*Guidi Tu*](https://github.com/maurovanetti/guidi-tu), volto al contrasto della guida in stato d'ebbrezza, per Cooperativa Alice (Alba, CN).
+- *Dal 2023* -- Sviluppo per Magari (Fidenza, PR) dell'intelligenza artificiale per l'adattamento digitale in Unity del gioco da tavolo [*Dungeon Twist*](https://dungeontwist.com/) (2024).
+- *Dal 2023* -- Prototipazione di giochi da tavolo (nomi provvisori: *Bunker Utopia* e *Dragon Alert*).
 - *Dal 2020* -- Docente a contratto alla Nuova Accademia di Belle Arti (Milano) per i corsi di Game Design I, Game Design II, Game Production Lab, Metodologie della Progettazione e della Ricerca, Interactive Storytelling per Videogiochi, Game Development I, Ambienti Virtuali.
 - *Dal 2019* -- Sviluppo per In4matic (Pavia) di una serie di app multipiattaforma per smartphone e di un'app desktop rivolte al mondo universitario usando Flutter/Dart (e in precedenza Monaca/Vue.js), nonché di applicazioni backend basate su Temporal usando TypeScript su Node.js.
 
 ## Esperienze lavorative precedenti
 
+- *2023-2024* -- Progettazione e sviluppo con Flutter/Dart del videogioco per smartphone [*Guidi Tu*](https://github.com/maurovanetti/guidi-tu), volto al contrasto della guida in stato d'ebbrezza, per Cooperativa Alice (Alba, CN).
 - *2021-2022* -- Tech lead nello sviluppo del videogioco in realtà aumentata per smartphone *House of the Dragon: DracARys*, sviluppato con Unity, pubblicato da WarnerMedia (New York).
 - *2021-2022* -- Tech lead per la parte digitale del gioco ibrido per LIM *Missione Pietrarubbia* rivolto alle scuole, sviluppato con Unity, pubblicato da We Are Müesli (Milano) per la Fondazione Arnaldo Pomodoro (Milano).
 - *2022* -- Formazione sui videogiochi e le tecniche di monetizzazione patogene e problematiche presso il Centro Steadycam (Alba, CN).
