@@ -2,6 +2,7 @@
 layout: post
 title: "Review: Shear Panic"
 tags: games en
+ref: shear-panic
 ---
 
 Review based on the Rules-Play-Culture model.
