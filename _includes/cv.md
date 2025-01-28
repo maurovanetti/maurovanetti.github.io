@@ -60,7 +60,7 @@
 Programmatore freelance ed esperto informatico a partita IVA. Progetti principali in corso negli ultimi mesi:
 
 - *Dal 2023* -- Sviluppo per Magari (Fidenza, PR) dell'intelligenza artificiale per l'adattamento digitale in Unity del gioco da tavolo [*Dungeon Twist*](https://dungeontwist.com/) (2024).
-- *Dal 2023* -- Prototipazione di giochi da tavolo (nomi provvisori: *Bunker Utopia* e *Dragon Alert*).
+- *Dal 2023* -- Prototipazione di gioco da tavolo (nome provvisorio: *Dragon Alert*).
 - *Dal 2020* -- Docente a contratto alla Nuova Accademia di Belle Arti (Milano) per i corsi di Game Design I, Game Design II, Game Production Lab, Metodologie della Progettazione e della Ricerca, Interactive Storytelling per Videogiochi, Game Development I, Ambienti Virtuali.
 - *Dal 2019* -- Sviluppo per In4matic (Pavia) di una serie di app multipiattaforma per smartphone e di un'app desktop rivolte al mondo universitario usando Flutter/Dart (e in precedenza Monaca/Vue.js), nonché di applicazioni backend basate su Temporal usando TypeScript su Node.js.
 
@@ -138,31 +138,32 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 *Come autore individuale:*
 
-- Mauro Vanetti, *La sinistra di destra*, Alegre, 2019 ([ISBN 9788832067057](https://www.google.com/search?q=ISBN+9788832067057)).
+- Mauro Vanetti, *La sinistra di destra* ([ISBN 9788832067057](https://www.google.com/search?q=ISBN+9788832067057)), Alegre, 2019 (saggio).
 
 *Come autore in opere collettive:*
 
-- Collettivo Senza Slot, *Vivere senza slot -- Storie sul gioco d'azzardo tra ossessione e resistenza*, Nuovadimensione, 2013 ([ISBN 9788889100875](https://www.google.com/search?q=ISBN+9788889100875)).
-- Collettivo Gran Bollito, *Futuro Anteriore -- Archeologia del dopo-Catastrofe*, Giap - Wu Ming Foundation, 2012 ([ebook](https://www.wumingfoundation.com/italiano/futuro_anteriore.pdf)).
+- Lefteris Papathanasis, Vaghelis Zikos, Mauro Vanetti, *To Phantasma* ([ISBN 9786188718210](https://oiekdoseistouaurio.gr/product/%cf%84%ce%bf-%cf%86%ce%ac%ce%bd%cf%84%ce%b1%cf%83%ce%bc%ce%b1/)), oi Ekdoseis tou Aurio, 2024 (fumetto).
+- Collettivo Senza Slot, *Vivere senza slot -- Storie sul gioco d'azzardo tra ossessione e resistenza* ([ISBN 9788889100875](https://www.google.com/search?q=ISBN+9788889100875)), Nuovadimensione, 2013 (saggio seminarrativo).
+- Collettivo Gran Bollito, *Futuro Anteriore -- Archeologia del dopo-Catastrofe* ([ebook](https://www.wumingfoundation.com/italiano/futuro_anteriore.pdf)), Giap - Wu Ming Foundation, 2012 (saggio seminarrativo).
 
 *Come autore di un contributo in opera individuale:*
 
-- Michele Gotuzzo, *Game Design -- Come realizzare game app di successo*, LSWR, 2015 ([ISBN 9788868950491](https://www.google.com/search?q=ISBN+9788868950491)), capitolo *Monetizzazione leale*.
+- Michele Gotuzzo, *Game Design -- Come realizzare game app di successo* ([ISBN 9788868950491](https://www.google.com/search?q=ISBN+9788868950491)), LSWR, 2015 (manuale), capitolo *Monetizzazione leale*.
 
 *Come traduttore:*
 
-- World Video Game Hall of Fame, *Storia dei videogame in 64 oggetti*, Harper-Collins, 2021 ([ISBN 9788869055805](https://www.google.com/search?q=ISBN+9788869055805)).
+- World Video Game Hall of Fame, *Storia dei videogame in 64 oggetti* ([ISBN 9788869055805](https://www.google.com/search?q=ISBN+9788869055805)), Harper-Collins, 2021 (saggio illustrato).
 
 *Come curatore e prefatore in opera collettiva:*
 
-- Aa. Vv., *Tifiamo asteroide -- Cento racconti sulla fine catastrofica del governo Letta*, Giap - Wu Ming Foundation, 2013 ([ebook](https://www.wumingfoundation.com/italiano/TifiamoAsteroide2.0.pdf)).
+- Aa. Vv., *Tifiamo asteroide -- Cento racconti sulla fine catastrofica del governo Letta* ([ebook](https://www.wumingfoundation.com/italiano/TifiamoAsteroide2.0.pdf)), Giap - Wu Ming Foundation, 2013 (antologia).
 
 *Come autore in raccolte:*
 
-- Aa. Vv., *Ludocrazia -- Un lessico dell'azzardo di massa*, O Barra O, 2016 ([ISBN 9788869680281](https://www.google.com/search?q=ISBN+9788869680281)), voce *Videogioco*.
-- Aa. Vv., *Tifiamo Scaramouche*, Giap - Wu Ming Foundation, 2015 ([ebook](https://www.wumingfoundation.com/4_Tifiamo_Scaramouche_900_Notte_fugge.pdf)), racconto *Contro i centoneri*.
-- Aa. Vv., *Tifiamo4 -- 34 racconti sull'acqua*, Giap - Wu Ming Foundation, 2014 ([ebook](https://www.wumingfoundation.com/Tifiamo4_34_racconti_sull_acqua.pdf)), racconto senza titolo.
-- Aa. Vv., *Scritture contemporanee*, antologia di racconti, Guasco Libri e Cinema, 2012 ([ISBN 9788890686405](https://www.google.com/search?q=ISBN+9788890686405)), racconto *Si era fatto Twitter*.
+- Aa. Vv., *Ludocrazia -- Un lessico dell'azzardo di massa* ([ISBN 9788869680281](https://www.google.com/search?q=ISBN+9788869680281)), O Barra O, 2016 (antologia), voce *Videogioco*.
+- Aa. Vv., *Tifiamo Scaramouche* ([ebook](https://www.wumingfoundation.com/4_Tifiamo_Scaramouche_900_Notte_fugge.pdf)), Giap - Wu Ming Foundation, 2015 (antologia), racconto *Contro i centoneri*.
+- Aa. Vv., *Tifiamo4 -- 34 racconti sull'acqua* ([ebook](https://www.wumingfoundation.com/Tifiamo4_34_racconti_sull_acqua.pdf)), Giap - Wu Ming Foundation, 2014 (antologia), racconto senza titolo.
+- Aa. Vv., *Scritture contemporanee* ([ISBN 9788890686405](https://www.google.com/search?q=ISBN+9788890686405)), Guasco Libri e Cinema, 2012 (antologia), racconto *Si era fatto Twitter*.
 
 ## Pubblicazioni ludiche
 
@@ -196,6 +197,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 *Come sviluppatore e game designer in un lavoro di squadra informale:*
 
+- [*Plan(et) B*](https://planet-b.itch.io/play), Global Game Jam 2025, nodo di Milano (videogioco).
 - [*The Art of Falling*](https://maurovanetti.itch.io/taof), Global Game Jam 2024, nodo di Roma Game Dev (videogioco).
 - [*Rabbit & Rabbit*](https://greencoldmint.itch.io/rnr), Global Game Jam 2022, nodo di Pavia (videogioco).
 - *Dinomite*, Global Game Jam 2021, nodo di Event Horizon Milano (videogioco).
@@ -214,8 +216,9 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 ## Altre esperienze ed eventi ludici
 
+- *2025* -- Referente Area Digital di *Play -- Festival del Gioco* (Bologna).
 - *2023* -- Ideatore della performance di improvvisazione [*Videogiochi Improvvisati*](https://improvg.itch.io/) con Jacopo Rovida, presentata a *Play in the City* (Modena).
-- *2022-2024* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
+- *2022-2025* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
 - *2022* -- Fondatore e organizzatore del [nodo di Pavia della Global Game Jam](https://globalgamejam.org/2022/jam-sites/global-game-jam-pavia).
 - *2021* -- Selezionato per l’esposizione di videogiochi indipendenti testuali *WordPlay* (Toronto) con il videogioco *Divide Et Impera*.
 - *2018-2019* -- Fondatore e organizzatore delle prime due edizioni di *Videogiocanda* (Pavia), evento sul gioco digitale all’interno di *Giocanda*, festival del gioco di strada.
