@@ -4,7 +4,7 @@ title: "Videogiochi Improvvisati"
 slug: improvg
 tags: games geek media
 ---
-**Videogiochi Improvvisati** è uno spettacolo di creazione di videogame dal vivo, realizzato in Italia da **Mauro Vanetti** e **Jacopo Rovida**. Il primo esperimento pubblico di Videogiochi Improvvisati si è svolto [il 20 maggio 2023 a Modena](https://www.play-modena.it/2023/programma/videogiochi-improvvisati/) all'interno di **Play in the City**, fuorisalone di **Play, il Festival del Gioco**, con l'animazione e la presentazione di **Francesco Lancia** e **Vincent Harker**.
+**Videogiochi Improvvisati** è uno spettacolo di creazione di videogame dal vivo, realizzato in Italia da **Mauro Vanetti** e **Jacopo Rovida**. Il primo esperimento pubblico di Videogiochi Improvvisati si è svolto [il 20 maggio 2023 a Modena](https://2023.play-modena.it/2023/programma/videogiochi-improvvisati/) all'interno di **Play in the City**, fuorisalone di **Play, il Festival del Gioco**, con l'animazione e la presentazione di **Francesco Lancia** e **Vincent Harker**.
 
 {% include youtube.html id="okd_ITUlVno" %}
 

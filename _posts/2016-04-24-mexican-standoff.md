@@ -4,7 +4,7 @@ title: Mexican Standoff
 slug: mexican-standoff
 tags: games geek
 ---
-Questo è il primo gioco che ho fatto in 48 ore a una jam, la [Global Game Jam al Politecnico di Milano del 2015](https://globalgamejam.org/2015/games/mexican-standoff).
+Questo è il primo gioco che ho fatto in 48 ore a una jam, la [Global Game Jam al Politecnico di Milano del 2015](https://v3.globalgamejam.org/2015/games/mexican-standoff).
 
 Ne sono stato molto felice, anche perché i miei compagni di squadra erano fantastici: Luca Casarotti e Jacopo Rovida, che già conoscevo, e poi Giulia Olivares, Alberto Congiu, Francesco Grotta. Visitate [la pagina ufficiale](https://maurovanetti.itch.io/mexican-standoff) per tutti i dettagli e i link (lo si può anche scaricare su Android).
 
