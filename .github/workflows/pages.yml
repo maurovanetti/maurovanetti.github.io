@@ -32,7 +32,7 @@ jobs:
       - name: Build with Jekyll
         uses: jerryjvl/jekyll-build-action@v1
       - name: Upload artifact for FTP job
-        uses: action/upload-artifact@v4
+        uses: actions/upload-artifact@v4
         with:
           name: site-artifact
           path: ./_site
@@ -40,19 +40,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
-
-  # Deployment on maurovanetti.github.io
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-        
+          
   # Deployment on maurovanetti.info
   publish:
     environment:
@@ -74,4 +62,16 @@ jobs:
           local-dir: ./_site/
           state-name: ../.sync-log.json
           log-level: verbose
-  
+
+  # Deployment on maurovanetti.github.io
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      
