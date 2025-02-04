@@ -27,22 +27,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Ruby
-        # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
-        uses: ruby/setup-ruby@v1.215.0
-        with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
+        uses: jerryjvl/jekyll-build-action@v1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          name: site-artifact
+          path: ./_site
 
   # Deployment on maurovanetti.github.io
   deploy:
@@ -61,11 +54,13 @@ jobs:
     environment:
       name: website-ftp
     runs-on: ubuntu-latest
+    needs: build
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Build with Jekyll
-        uses: jerryjvl/jekyll-build-action@v1    
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: site-artifact
+          path: ./_site
       - name: Sync to maurovanetti.info
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
