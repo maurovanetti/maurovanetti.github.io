@@ -34,7 +34,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          name: site-artifact
           path: ./_site
 
   # Deployment on maurovanetti.github.io
@@ -57,9 +56,8 @@ jobs:
     needs: build
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
-          name: site-artifact
           path: ./_site
       - name: Sync to maurovanetti.info
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
