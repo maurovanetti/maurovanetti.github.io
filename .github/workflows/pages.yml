@@ -58,7 +58,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: github_pages
+          name: github-pages
           path: ./_site
       - name: Sync to maurovanetti.info
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
