@@ -44,7 +44,8 @@ minima:
 author: Mauro Vanetti
 mastodon:
   - username: m
-    instance: maurovanetti.info
+    instance: mastodon.maurovanetti.info
+    full: "@m@maurovanetti.info"
 # twitter_username: maurovanetti
 github_username:  maurovanetti
 facebook_username: mauro.vanetti
