@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Pope’s abdication highlights the crisis of Roman Catholicism
+title: The Pope’s abdication and the crisis of Roman Catholicism
 tags: pol en
 original: ratzinger
 ---
