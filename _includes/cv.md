@@ -178,6 +178,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 *Come coautore:*
 
+- [*Automated Border City*](https://maurovanetti.itch.io/abc), 2024 (videogioco), con Davide Bosco, Benedetta Pierfederici e Bruno Zambelli.
 - [*Divide et Impera*](https://maurovanetti.itch.io/dei), 2021 (videogioco), con Open Lab (Firenze).
 
 *Come tech lead e sviluppatore:*
@@ -216,7 +217,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 ## Altre esperienze ed eventi ludici
 
-- *2025* -- Referente Area Digital di *Play -- Festival del Gioco* (Bologna).
+- *2025* -- Referente Area Digital di *Play -- Festival del Gioco* (Bologna), nonché curatore con Riccardo Fassone e Mauro Salvador della mostra *Turno Extra -- Estensioni digitali del gioco da tavolo*.
 - *2023* -- Ideatore della performance di improvvisazione [*Videogiochi Improvvisati*](https://improvg.itch.io/) con Jacopo Rovida, presentata a *Play in the City* (Modena).
 - *2022-2025* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
 - *2022* -- Fondatore e organizzatore del [nodo di Pavia della Global Game Jam](https://globalgamejam.org/2022/jam-sites/global-game-jam-pavia).
