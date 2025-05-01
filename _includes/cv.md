@@ -169,17 +169,15 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 *Come autore:*
 
+- [*Fantapapa*](https://fantapapa.org), 2025 (gioco online di massa), con Pietro Pace.
+- [*Automated Border City*](https://maurovanetti.itch.io/abc), 2024 (videogioco), con Davide Bosco, Benedetta Pierfederici e Bruno Zambelli.
 - [*Guidi Tu*](https://github.com/maurovanetti/guidi-tu), 2024 (app giocosa).
 - [*Trickle-Down Economics*](https://maurovanetti.itch.io/tde), 2023 (videogioco minimo).
 - [*2•5D addon for Construct 3*](https://maurovanetti.itch.io/25d4c3), 2023 (strumento di sviluppo per videogiochi).
+- [*Divide et Impera*](https://maurovanetti.itch.io/dei), 2021 (videogioco), con Open Lab (Firenze).
 - [*Ink-Fungus Gateway*](https://maurovanetti.itch.io/ifg), 2020 (strumento di sviluppo per videogiochi).
 - [*Little Antifa Novel*](https://maurovanetti.itch.io/lan), 2017 (videogioco).
 - [*Two Interviewees*](https://maurovanetti.itch.io/2i) [*Due Colloqui di Lavoro*], 2016 (videogioco).
-
-*Come coautore:*
-
-- [*Automated Border City*](https://maurovanetti.itch.io/abc), 2024 (videogioco), con Davide Bosco, Benedetta Pierfederici e Bruno Zambelli.
-- [*Divide et Impera*](https://maurovanetti.itch.io/dei), 2021 (videogioco), con Open Lab (Firenze).
 
 *Come tech lead e sviluppatore:*
 
@@ -194,9 +192,9 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 
 *Come consulente di game design:*
 
-- [*Colpo di Stato*](https://www.wearemuesli.it/#/colpodistato/), 2020 (gioco di carte), pubblicato da We Are Müesli (Milano).
+- [*Colpo di Stato*](https://www.wearemuesli.it/#/colpodistato), 2020 (gioco di carte), pubblicato da We Are Müesli (Milano).
 
-*Come sviluppatore e game designer in un lavoro di squadra informale:*
+*Come sviluppatore e game designer in game jam:*
 
 - [*Plan(et) B*](https://planet-b.itch.io/play), Global Game Jam 2025, nodo di Milano (videogioco).
 - [*The Art of Falling*](https://maurovanetti.itch.io/taof), Global Game Jam 2024, nodo di Roma Game Dev (videogioco).
@@ -218,7 +216,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 ## Altre esperienze ed eventi ludici
 
 - *2025* -- Referente Area Digital di *Play -- Festival del Gioco* (Bologna), nonché curatore con Riccardo Fassone e Mauro Salvador della mostra *Turno Extra -- Estensioni digitali del gioco da tavolo*.
-- *2023* -- Ideatore della performance di improvvisazione [*Videogiochi Improvvisati*](https://improvg.itch.io/) con Jacopo Rovida, presentata a *Play in the City* (Modena).
+- *2023* -- Ideatore della performance di improvvisazione [*Videogiochi Improvvisati*](https://improvg.itch.io) con Jacopo Rovida, presentata a *Play in the City* (Modena).
 - *2022-2025* -- Componente della commissione del Ministero dei Beni Culturali per la valutazione delle richieste di accesso al credito d'imposta per le imprese di produzione di videogiochi.
 - *2022* -- Fondatore e organizzatore del [nodo di Pavia della Global Game Jam](https://globalgamejam.org/2022/jam-sites/global-game-jam-pavia).
 - *2021* -- Selezionato per l’esposizione di videogiochi indipendenti testuali *WordPlay* (Toronto) con il videogioco *Divide Et Impera*.
