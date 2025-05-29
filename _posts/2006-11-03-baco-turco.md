@@ -3,6 +3,7 @@ layout: post
 title: Ci sarà sempre un baco turco
 tags: geek
 slug: baco-turco
+ref: baco-turco
 ---
 Programmare può sembrare un lavoro molto arido, e in parte lo è. Eppure, ogni tanto dà occasione di fare un po' di filosofia.\
 Racconto una storia che riguarda il mio precedente posto di lavoro, sperando che rivelare questi importanti segreti industriali non li spinga a portarmi in tribunale…
