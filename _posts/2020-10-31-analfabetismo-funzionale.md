@@ -2,6 +2,7 @@
 layout: post
 title: L'enorme analfabetismo funzionale in Italia è una bufala?
 tags: pol
+ref: analfabetismo-funzionale
 ---
 Risposta breve: sì, infatti il 95% della popolazione non è analfabeta funzionale.
 
