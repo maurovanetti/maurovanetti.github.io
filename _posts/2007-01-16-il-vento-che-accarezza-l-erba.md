@@ -2,6 +2,7 @@
 layout: post
 title: "«Il vento che accarezza l'erba»: un film su classe e nazione"
 tags: pol media
+ref: wind-grass-film
 ---
 L'ultimo film di Ken Loach è veramente un esempio perfetto dello stile e del messaggio del famoso regista comunista inglese, che con questo lavoro si è guadagnato a Cannes la Palma d'Oro - e, a Londra, un'altra dose di meritato odio da parte della classe dominante e dei suoi tirapiedi.
 

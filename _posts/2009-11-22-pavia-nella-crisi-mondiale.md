@@ -2,6 +2,7 @@
 layout: post
 title: Pavia e provincia nel vortice della crisi mondiale
 tags: pol pv
+ref: pavia-global-crisis
 ---
 La crisi economica mondiale ha le sue ripercussioni anche nella provincia di Pavia. Nel dicembre scorso la segreteria provinciale della CGIL ha lanciato l’allarme: nella nostra provincia nel corso del 2009 si sarebbero potuti perdere qualcosa come 2.500 posti di lavoro. La serie di dati Excelsior per il 2009 fornisce alcune informazioni interessanti sui flussi occupazionali previsti che confermano grosso modo le preoccupazioni della Camera del Lavoro: per quest’anno in provincia sono previste 5.000 uscite dal mondo del lavoro a fronte di 3.500 assunzioni. Interessante scoprire che anche in una provincia deindustrializzata come Pavia il grosso delle assunzioni (oltre il 70%) verrà dalle aziende sopra i 50 dipendenti: insomma, il “tessuto delle piccole imprese” di cui si parla tanto non ci salverà di certo (solo il 10% delle assunzioni verranno dalle aziende sotto i 10 dipendenti). Buona parte delle perdite di posti di lavoro colpisce i precari: i più sfruttati e i più ricattabili sono anche i primi ad essere lasciati a casa appena c’è crisi, a conferma del fatto che la precarietà non risolve i problemi occupazionali.
 

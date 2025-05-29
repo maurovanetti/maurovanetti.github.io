@@ -2,6 +2,7 @@
 layout: post
 title: "Italy: workers' struggles in the coronavirus crisis"
 tags: pol media en
+ref: coronavirus-struggles
 ---
 During the 2020 Spring pandemic, I've been invited to speak at an online meeting by IMT Madison, a Wisconsin branch of the International Marxist Tendency.
 

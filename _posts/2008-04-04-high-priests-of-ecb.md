@@ -2,6 +2,7 @@
 layout: post
 title: The high priests of the European Central Bank
 tags: pol en
+ref: high-priests-ecb
 ---
 When conservative Western commentators want to expose some "Third-World regime" involved in a conflict with one of the more powerful capitalist countries such as the United States, Britain or France, very often they use a journalistic device, that of the *unelected interfering villain*. According to this device, these "evil, backward countries" are in a far worse state than the more "civilised" Germany, Belgium or Canada, because there is either an unelected *ayatollah* in Iran, an unelected general in Myanmar, an unelected *Dear Leader* in North Korea, who can deliver a speech in a Teheran mosque, a Rangoon military school, a Pyongyang Party headquarters and decisively influence the course of national politics.
 

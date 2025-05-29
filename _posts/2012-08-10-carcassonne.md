@@ -2,6 +2,7 @@
 layout: post
 title: "Recensione: Carcassonne"
 tags: games
+ref: carcassonne
 ---
 
 Carcassonne è stato inventato da Klaus-Jürgen Wrede, un insegnante di musica e teologia che vive vicino a Colonia. Il gioco è stato pubblicato nel 2000 riscuotendo da allora un enorme successo che ha portato alla pubblicazione di un grande numero di espansioni.

@@ -2,6 +2,7 @@
 layout: post
 title: "Zuckerberg licenzia 11mila lavoratori"
 tags: geek pol
+ref: zuckerberg-layoffs
 ---
 Il 9 novembre Mark Zuckerberg, presidente e amministratore delegato di Meta, la compagnia che possiede Facebook, WhatsApp e Instagram, ha annunciato con una lettera aperta il licenziamento di 11mila dipendenti. «Non c'è un modo giusto per fare un licenziamento», si è scusato. «So che è particolarmente difficile se siete qui con un visto di immigrazione», ha aggiunto. Ma anche i miliardari hanno un cuore: «Abbiamo deciso di togliere l'accesso alla maggior parte dei sistemi Meta per chi se ne va via oggi, vista la quantità di dati sensibili a cui potrebbe accedere. Ma terremo gli indirizzi e-mail attivi per tutta la giornata cosicché tutti potranno dirsi addio.»
 

@@ -3,6 +3,7 @@ layout: post
 title: '"The Battle of Chile"'
 slug: chile
 tags: pol media en
+ref: chile
 ---
 These are the reviews, published on [In Defence of Marxism](http://www.marxist.com/) and [Hands Off Venezuela](http://www.handsoffvenezuela.org/), of the three parts of Patricio Guzmán's film *The Battle of Chile* (*La batalla de Chile*) screened in London in 2008. I've been responsible for this series of screenings during Autumn 2008.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Quando il Veneto Fronte Skinheads preoccupava anche Pavia
 tags: pol pv
+ref: veneto-skinheads
 ---
 Rabbia, tristezza, disgusto: da qualche mese per lavoro sono a Londra (un'altra capitale europea caduta come Roma in mano alla destra più sfacciata) e oggi, leggendo sulla metropolitana le notizie da Verona, sono queste le prime sensazioni che provo.
 

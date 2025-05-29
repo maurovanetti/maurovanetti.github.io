@@ -2,6 +2,7 @@
 layout: post
 title: Quanto è grande il proletariato?
 tags: pol
+ref: proletariat-size
 ---
 C'è un gigantesco gruppo sociale che include miliardi di esseri umani accomunati da alcuni elementi fondamentali:
 
