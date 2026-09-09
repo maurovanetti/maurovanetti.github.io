@@ -43,8 +43,8 @@
 
 *Linguaggi, ambienti, framework e strumenti*
 
-- Più usati: Dart, Flutter, C#, Python, SQL, HTML5, JavaScript, TypeScript, Node.js, Git, Temporal
-- Altri: C, C++, Java, J2EE, JSP, Spring, Hibernate, Ant, JavaCC, PHP, Bootstrap, Django, Django CMS, jQuery, Vue.js, VBScript, ASP, ASP.NET, SVN, ClearCase, Maven
+- Più usati: Dart, Flutter, C#, Python, SQL, HTML5, JavaScript, TypeScript, Node.js, Bun, Git
+- Altri: C, C++, Java, J2EE, JSP, Spring, Hibernate, Ant, JavaCC, PHP, Bootstrap, Django, Django CMS, jQuery, Vue.js, VBScript, ASP, ASP.NET, SVN, ClearCase, Maven, Temporal, Windmill
 
 *Motori, ambienti e strumenti per lo sviluppo di videogiochi*
 
@@ -62,7 +62,7 @@ Programmatore freelance ed esperto informatico a partita IVA. Progetti principal
 - *Dal 2025* -- Sviluppo in proprio del videogioco per smartphone e web [*Sillabo*](https://sillabo.it) usando Flutter.
 - *Dal 2023* -- Sviluppo di un gioco da tavolo (nome provvisorio: [*Dragon Alert*](https://www.kickstarter.com/projects/magari-fun/dragon-alert) in collaborazione con Magari (Fidenza, PR).
 - *Dal 2020* -- Docente a contratto alla Nuova Accademia di Belle Arti (Milano) per i corsi di Game Design I, Game Design II, Game Production Lab, Metodologie della Progettazione e della Ricerca, Interactive Storytelling per Videogiochi, Game Development I, Ambienti Virtuali.
-- *Dal 2019* -- Sviluppo per In4matic (Pavia) di una serie di app multipiattaforma per smartphone e di un'app desktop rivolte al mondo universitario usando Flutter/Dart (e in precedenza Monaca/Vue.js), nonché di applicazioni backend basate su Temporal usando TypeScript su Node.js.
+- *Dal 2019* -- Sviluppo per In4matic (Pavia) di una serie di oltre 20 app multipiattaforma per smartphone e di app desktop rivolte al mondo universitario usando Flutter/Dart (e in precedenza Monaca/Vue.js), nonché di diversi servizi backend basati su varie tecnologie (Temporal, Windmill, Node.js, Bun) e linguaggi (soprattutto TypeScript).
 
 ## Esperienze lavorative precedenti
 
